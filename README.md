@@ -8,6 +8,6 @@ Because there is a compressed file in the **packfiles** folder called **voices.v
 # Description
 The base language is English to start translating.
 
-The scripts are very rudimentary, but they automate the work of creating a new locale and compressing the translated files into a .le_strings file. Be careful as they have few error checks.
+The scripts are very rudimentary, but they automate the work of creating a new locale and compressing the translated files into a **.le_strings** file. Be careful as they have few error checks.
 
 Follow the instructions in the scripts and you will be fine.

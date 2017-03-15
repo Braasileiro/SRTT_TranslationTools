@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Strings Language="English" Game="SaintsRowTheThird">
+	<String Name="CONTROL_KICK_PLAYER">EXPULSAR JOGADOR</String>
+	<String Name="COOP_CANT_JOIN_YET_ACTIVITY">%ls näo pode se unir enquanto você estiver em uma Atividade.
+Ele irá se unir quando você voltar ao jogo normal.</String>
+	<String Name="COOP_CANT_JOIN_YET_CUTSCENE">%ls näo pode se juntar enquanto você estiver em uma cena.
+Ele irá se unir quando você voltar ao jogo normal.</String>
+	<String Name="COOP_CANT_JOIN_YET_MISSION">%ls näo pode se juntar enquanto você está em uma Missäo.
+Eles iräo se juntar quando você voltar ao jogo normal.</String>
+	<String Name="COOP_CANT_JOIN_YET_PROLOGUE">Essa missäo deve ser reiniciada para permitir que %ls junte-se ao jogo agora.  Se você reiniciar perderá todos os pontos de controle atuais nessa missäo.
+Deseja continuar?</String>
+	<String Name="COOP_CANT_JOIN_YET_STRONGHOLD">%ls näo pode se unir enquanto você estiver em uma fortaleza.
+Ele irá se unir quando você voltar ao jogo normal.</String>
+	<String Name="COOP_CREATE_NEW_TEXT">CRIAR NOVO</String>
+	<String Name="COOP_DISCONNECTED">Você foi desconectado!</String>
+	<String Name="COOP_DISCONNECTED_FROM_SERVER">Você foi desconectado do servidor, por esse motivo está sendo redirecionado ao Menu PPrincipal.
+Gostaria de salvar a missäo antes de sair do nível?</String>
+	<String Name="COOP_FREINDLY_FIRE_LIGHT">Luz de fogo amigo ativada!
+Agora você pode danificar parcialmente seu parceiro.</String>
+	<String Name="COOP_FREINDLY_FIRE_OFF">Fogo amigo desativado!
+Você näo pode danificar seu parceiro.</String>
+	<String Name="COOP_FREINDLY_FIRE_ON">Fogo amigo ativado!
+You can now damage your partner.</String>
+	<String Name="COOP_HOST_BUSY">O servidor está ocupado e pediu para esperar...</String>
+	<String Name="COOP_INCORRECT_MODE">MODO INCORRETO</String>
+	<String Name="COOP_JOIN_IN_PROGRESS">%ls ESTÁ ENTRANDO NO JOGO</String>
+	<String Name="COOP_JOIN_IS_WAITING">%ls está esperando para entrar.</String>
+	<String Name="COOP_JOIN_REQUEST_MESSAGE">%ls quer entrar no seu jogo.</String>
+	<String Name="COOP_JOIN_REQUEST_MSG">%ls gostaria de juntar ao jogo.
+Você quer permitir?</String>
+	<String Name="COOP_JOIN_REQUEST_TITLE">SOLICITAÇÄO DE UNIÄO</String>
+	<String Name="COOP_KICKED">Você foi expulso do jogo!</String>
+	<String Name="COOP_LOAD_EXPLANATION_TEXT">IRÁ CARREGAR PERSONAGENS, ROUPAS E VEÍCULOS DE OUTRO JOGO</String>
+	<String Name="COOP_LOAD_OLD_TEXT">CARREGAR</String>
+	<String Name="COOP_LOAD_TITLE_TEXT">CARREGAR PERSONAGEM</String>
+	<String Name="COOP_MAY_HAVE_DROPPED">RECONECTANDO PARA %ls</String>
+	<String Name="COOP_PARTNER_DISCONNECTED">A CONEXÄO COM %ls FOI PERDIDA</String>
+	<String Name="COOP_PARTNER_PAUSED">%s PAUSOU O JOGO</String>
+	<String Name="COOP_REMOTE_CHEAT_CONTINUE">CONTINUAR</String>
+	<String Name="COOP_REMOTE_CHEAT_KICK">EXPULSAR JOGADOR E CONTINUAR JOGO</String>
+	<String Name="COOP_REMOTE_CHEAT_QUIT">SAIR</String>
+	<String Name="COOP_REMOTE_CHEAT_SAVE_CONTINUE">SALVAR E CONTINUAR JOGO</String>
+	<String Name="COOP_REMOTE_CHEAT_SAVE_QUIT">SALVAR E SAIR DO JOGO</String>
+	<String Name="COOP_TITLE">Cooperativo</String>
+	<String Name="COOP_WAIT">Por favor aguarde...</String>
+	<String Name="COOP_WAIT_FOR_ANYONE">AGUARDE POR ALGUM JOGADOR</String>
+	<String Name="FOREIGN_CHARACTER_DETECTED_WARNING_MESSAGE">Um jogador tem a ID com caracteres especiais. Esses podem ser "_".</String>
+	<String Name="INVITE_FAILED_BODY">Näo foi possível enviar o convite para {0}.</String>
+	<String Name="INVITE_FAILED_TITLE">ERRO AO ENVIAR CONVITE</String>
+	<String Name="LIVE_PLAYER_LEFT">%ls SAIU DO JOGO</String>
+	<String Name="MP_CANCEL_JOIN">Cancelar</String>
+	<String Name="MP_DISCONNECT_HOST_LEFT">O anfitriäo abandonou o jogo.
+Você deve voltar ao Menu Principal.</String>
+	<String Name="MP_FIND_SERVER_BODY">Procurando por um jogo.</String>
+	<String Name="MP_FIND_SERVER_TITLE">ENCONTRANDO SERVIDORES</String>
+	<String Name="MP_INVITE_SENDING">Enviando convite...</String>
+	<String Name="MP_INVITE_SENT_BODY">Convite de jogo enviado para {0}.</String>
+	<String Name="MP_INVITE_SENT_TITLE">CONVITE DE JOGO ENVIADO</String>
+	<String Name="MP_JOIN_ACCEPT">ACEITAR</String>
+	<String Name="MP_JOIN_DENY">NEGAR</String>
+	<String Name="MP_JOIN_SERVER_BODY">Esperando que o servidor aceite a conexäo.</String>
+	<String Name="MP_JOIN_SERVER_TITLE">CONECTANDO-SE AO SERVIDOR</String>
+	<String Name="MP_WINNERS_TIE">JOGO CONECTADO</String>
+	<String Name="MP_WINNERS_YOU_LOSE">VOCÊ PERDEU</String>
+	<String Name="MP_WINNERS_YOU_WIN">VOCÊ VENCEU</String>
+	<String Name="MULTI_CHAT_DISABLED">SEM CHAT</String>
+	<String Name="MULTI_CHAT_DISABLED_TITLE">DESCONECTADO</String>
+	<String Name="MULTI_CONNECTION_LOST_PS3">Você encerrou sua sessäo.
+Retornando ao Menu Principal.</String>
+	<String Name="MULTI_ERROR_CANT_FIND_MATCH">Incapaz de encontrar um jogo.</String>
+	<String Name="MULTI_ERROR_HOST_LEFT">O servidor finalizou o jogo.</String>
+	<String Name="MULTI_ERROR_INTERNAL_ERROR">Você foi desconectado do jogo.</String>
+	<String Name="MULTI_ERROR_JOIN_REJECTED">O servidor näo está aceitando jogadores agora.</String>
+	<String Name="MULTI_ERROR_NETWORK_TROUBLE">O servidor finalizou o jogo.</String>
+	<String Name="MULTI_ERROR_NO_JOIN_INFO">Você näo pode entrar no jogo.</String>
+	<String Name="MULTI_ERROR_SESSION_ERROR">Você näo pode entrar no jogo.</String>
+	<String Name="MULTI_ERROR_SESSION_FULL">Essa partida está em progresso ou cheio.</String>
+	<String Name="MULTI_FIND_GAMES">ENCONTRAR JOGO</String>
+	<String Name="MULTI_JOIN_DELAY_MSG">O jogo que você está tentando se juntar está em uma atividade, missäo ou fortaleza.
+Você irá se unir quando finalizar esse modo de jogo.</String>
+	<String Name="MULTI_JOIN_FRIEND">UNIR-SE A UM AMIGO</String>
+	<String Name="MULTI_JOIN_LOAD_TITLE">Cooperativo</String>
+	<String Name="MULTI_LOST_CONNECTION_SYS">Ocorreu um erro na conexäo.
+Você está sendo redirecionado ao Menu Principal.</String>
+	<String Name="MULTI_MENU_TITLE">MULTI-JOGADOR</String>
+	<String Name="MULTI_NO_ETHERNET">Ocorreu um erro na conexäo.
+Você está sendo redirecionado ao Menu Principal.</String>
+	<String Name="MULTI_NO_PRIVILEGE_PS3">Esse perfil é incapaz de jogar on-line.</String>
+	<String Name="MULTI_NOT_SIGNED_IN">Você deve entrar com um perfil de jogador para acessar esse conteúdo.</String>
+	<String Name="MULTI_NOT_SIGNED_IN_PS3">Você deve entrar com um perfil de jogador para acessar esse conteúdo.</String>
+	<String Name="MULTI_ONLINE_RESTRICTED">DESCONECTADO</String>
+	<String Name="MULTI_ONLINE_RESTRICTED_TITLE">DESCONECTADO</String>
+	<String Name="QUIT_TO_MAIN_MENU">SAIR DO JOGO</String>
+</Strings>

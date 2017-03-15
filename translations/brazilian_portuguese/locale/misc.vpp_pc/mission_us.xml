@@ -1,0 +1,852 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Strings Language="English" Game="SaintsRowTheThird">
+	<String Name="CHECKPOINT_PASSED">PONTO DE CONTROLE ALCANÇADO</String>
+	<String Name="DANGER__UNLOCALIZED_STRING_OVER_NETWORK">PERIGO! STRING NÄO LOCALIZADA SOBRE A REDE</String>
+	<String Name="m01_failure_gat_died">GAT MORREU!</String>
+	<String Name="m01_failure_josh_died">JOSH MORREU!</String>
+	<String Name="m01_failure_shaundi_died">SHAUNDI MORREU!</String>
+	<String Name="m01_go_to_vault">VÁ PARA O [format][color:location]COFRE[/format]</String>
+	<String Name="M01_GO_UPSTAIRS">VÁ [format][color:location]PARA CIMA[/format]</String>
+	<String Name="M01_KILL_CHOPPER">ATIRE NO [format][color:kill]HELICÓPTERO[/format]</String>
+	<String Name="m01_kill_lobby_guards">MATE OS [format][color:kill]GUARDAS[/format]</String>
+	<String Name="m01_ride_vault">SOBREVIVA</String>
+	<String Name="m01_set_explosives">VÁ PLANTAR OS [format][color:use]EXPLOSIVOS[/format]</String>
+	<String Name="M01_SIGN_AUTOGRAPH">DAR AUTÓGRAFO</String>
+	<String Name="m01_survive">[format][color:defend]DEFENDA-SE [/format]</String>
+	<String Name="M01_TITLE">ASSALTO AO BANCO</String>
+	<String Name="M01_Y_FOR_EXPLOSIVES">PLANTE OS EXPLOSIVOS</String>
+	<String Name="m02_failure_player_ejected">VOCÊ CAIU DO AVIÄO E MORREU!</String>
+	<String Name="m02_failure_shaundi_died">SHAUNDI FOI MORTA</String>
+	<String Name="M02_OBJ_CATCH_SHAUNDI">CAPTURE [format][color:location]SHAUNDI[/format]</String>
+	<String Name="M02_OBJ_ESCAPE">ESCAPE COM [format][color:defend]SHAUNDI[/format]</String>
+	<String Name="M02_OBJ_FIND_PARACHUTE">ENCONTRE UM [format][color:location]PARAQUEDAS[/format]</String>
+	<String Name="M02_OBJ_KILL_GUARDS">MATE OS [format][color:kill]GUARDAS[/format]</String>
+	<String Name="M02_OBJ_KILL_PURSUERS">MATE OS [format][color:kill]INIMIGOS PERSEGUIDORES[/format]</String>
+	<String Name="M02_OBJ_OPEN_DOORS">ABRA AS [format][color:location]COMPORTAS DA ZONA DE CARGAS[/format]</String>
+	<String Name="M02_OBJ_SHOOT_PLANE">ATIRE NO [format][color:kill]PARA-BRISAS[/format]</String>
+	<String Name="M03_FAILURE_ABANDON_HOMIE">SHAUNDI ABANDONOU!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m03_failure_bomb_destroyed">A BOMBA FOI DESTRUÍDA!</String>
+	<String Name="m03_failure_heli_destroyed">O HELICÓPTERO FOI DESTRUÍDO!</String>
+	<String Name="m03_failure_pierce_destroyed">O HELICÓPTERO DO PIERCE FOI DESTRUÍDO!</String>
+	<String Name="m03_failure_shaundi_killed">SHAUNDI MORREU!</String>
+	<String Name="M03_OBJ_ACCESS_MAP">ACESSE O [format][color:location]MAPA DO CELULAR[/format]</String>
+	<String Name="M03_OBJ_ACCESS_MAP_USE_MSG">ACESSE O MAPA DO CELULAR</String>
+	<String Name="M03_OBJ_CUTSCENE_FOUND_WEAPONS_CACHE">[format][color:location]CENA: DEPÓSITO DE ARMAS ENCONTRADO[/format]</String>
+	<String Name="M03_OBJ_DESTROY_TANKS">DESTRUA OS [format][color:kill]TANQUES[/format]</String>
+	<String Name="M03_OBJ_DESTROY_TARGETS">DESTRUA OS [format][color:kill]ALVOS[/format]</String>
+	<String Name="M03_OBJ_ELIMINATE_REINFORCEMENTS">ELIMINE OS [format][color:kill]REFORÇOS[/format]</String>
+	<String Name="M03_OBJ_EXIT_STORE">SAIR DA LOJA</String>
+	<String Name="M03_OBJ_FIND_WEAPONS_CACHE">ENCONTRE O [format][color:location]DEPÓSITO DE ARMAS[/format]</String>
+	<String Name="M03_OBJ_GO_TO_ARMORY">VÁ PARA O [format][color:location]ARSENAL DOS GUARDAS[/format]</String>
+	<String Name="M03_OBJ_GO_TO_CHOPPER">ENTRE NO [format][color:location]HELICÓPTERO DO PIERCE[/format]</String>
+	<String Name="M03_OBJ_GO_TO_WAREHOUSE">VÁ PARA O [format][color:location]ARMAZÉM[/format]</String>
+	<String Name="M03_OBJ_GO_TO_WEAPON_STORE">VÁ AO [format][color:location]FRIENDLY FIRE[/format]</String>
+	<String Name="M03_OBJ_HOLD_YOUR_POSITION">MANTENHA SUA [format][color:defend]POSIÇÄO[/format]</String>
+	<String Name="M03_OBJ_KILL_GUARDS">MATE OS [format][color:kill]GUARDAS[/format]</String>
+	<String Name="M03_OBJ_PROTECT_THE_BOMB">PROTEJA A [format][color:defend]BOMBA[/format]</String>
+	<String Name="M03_OBJ_PROTECT_THE_STASH">PROTEJA OS [format][color:defend]HELICÓPTEROS[/format]</String>
+	<String Name="M03_OBJ_PURCHASE_AN_UPGRADE">COMPRE UMA [format][color:use]MELHORIA DE ARMAS[/format]</String>
+	<String Name="M03_OBJ_SET_GPS">PROGRAME O [format][color:location]GPS[/format]</String>
+	<String Name="M03_OBJ_STEAL_A_CAR">ROUBE UM [format][color:use]CARRO[/format]</String>
+	<String Name="M03_OBJ_USE_SATELLITE_WEAPON">USE O [format][color:use]REAPER DIRIGIDO[/format]</String>
+	<String Name="M03_USE_TRIGGER_SATELLITE_WEAPON">Use a arma do satélite.</String>
+	<String Name="m04_failure_abandon_pierce">PIERCE FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m04_failure_car_destroyed">CARRO DESTRUÍDO!</String>
+	<String Name="m04_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m04_obj_buy_clothes">COMPRE [format][color:use]ROUPAS[/format]</String>
+	<String Name="m04_obj_find_clothes">VÁ AO [format][color:location]PLANET SAINTS[/format]</String>
+	<String Name="m04_obj_find_mechanic">DIRIJA A [format][color:location]MÁQUINA[/format]</String>
+	<String Name="m04_obj_get_car">PEGUE UM [format][color:use]CARRO[/format]</String>
+	<String Name="m04_obj_kill_brute">MATE OS [format][color:kill]GORILAS[/format]</String>
+	<String Name="m04_obj_kill_goons">MATE OS [format][color:kill]MORNINGSTAR[/format]</String>
+	<String Name="m04_obj_return_home">RETORNE A [format][color:location]CASA SEGURA[/format]</String>
+	<String Name="m04_obj_use_mechanic">USE O [format][color:use]MECÂNICO[/format]</String>
+	<String Name="M05_ELEVATOR">CHAMAR ELEVADOR</String>
+	<String Name="m05_fail_chase">O TENENTE FUGIU!
+MANTENHA A DISCRIÇÄO E NÄO O PERCA.</String>
+	<String Name="m05_fail_left">VOCÊ DEIXOU O GRUPO!</String>
+	<String Name="m05_fail_lt_died">O TENENTE MORREU!</String>
+	<String Name="m05_fail_time">FIM DO TEMPO!
+PEGUE O TENENTE RAPIDAMENTE PARA OBTER O CÓDIGO DE DETÉM AS BOMBAS.</String>
+	<String Name="M05_Jump">PULAR</String>
+	<String Name="M05_MSG_TAUNT">Provoque os [format][color:location]guardas[/format].</String>
+	<String Name="M05_OBJ_BARRIER">DESTRUA A [format][color:kill]BARREIRA[/format]</String>
+	<String Name="M05_OBJ_BASEMENT">ENCONTRE A [format][color:location]SALA DE ARMAZENAMENTO[/format]</String>
+	<String Name="M05_OBJ_CHASE_HELI">SIGA O [format][color:location]TENENTE[/format]</String>
+	<String Name="M05_OBJ_CLEAR_AREA">ELIMINE OS [format][color:kill]MORNINGSTAR[/format]</String>
+	<String Name="M05_OBJ_FIND_LIEUTENANT">ENCONTRE O [format][color:location]TENENTE[/format]</String>
+	<String Name="M05_OBJ_GET_TO_HELI">SUBA EM UM [format][color:use]HELICÓPTERO[/format]</String>
+	<String Name="M05_OBJ_GRENADES">PEGUE AS [format][color:use]GRANADAS[/format]</String>
+	<String Name="M05_OBJ_INTERROGATE">PEGUE O [format][color:use]TENENTE[/format]</String>
+	<String Name="M05_OBJ_KILL_LIEUTENANT">MATE O [format][color:kill]TENENTE[/format]</String>
+	<String Name="M05_OBJ_LET_IN_SAINTS">DEIXE OS [format][color:use]SAINTS[/format] ENTRAREM</String>
+	<String Name="M05_OBJ_PARACHUTE">ENTRE DE PARAQUEDAS NO [format][color:location]ALPENDRE[/format]</String>
+	<String Name="M05_OBJ_TAUNT">INSULTE [format][color:location]OS GUARDAS[/format]</String>
+	<String Name="M05_OBJ_WAIT_FOR_SAINTS">PROTEJA O [format][color:defend]ELEVADOR[/format]</String>
+	<String Name="M06_FAILURE_ABANDON_HOMIE">OS COLEGAS ABANDONARAM!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m06_failure_destroy_bomb">A BOMBA EXPLODIU!</String>
+	<String Name="m06_failure_oleg_died">OLEG MORREU!</String>
+	<String Name="m06_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m06_failure_shaundi_died">SHAUNDI MORREU!</String>
+	<String Name="m06_obj_decide">[format][color:use]DESARME A BOMBA[/format] OU [format][color:kill]DESTRUA O EDIFÍCIO[/format]</String>
+	<String Name="m06_obj_dock_thugs">MATE [format][color:kill]OS GUARDAS DO PORTO[/format]</String>
+	<String Name="m06_obj_find_ball">USE [format][color:use]O CONTRAPESO[/format]</String>
+	<String Name="m06_obj_kill_brute">MATE O [format][color:kill]GORILA[/format]</String>
+	<String Name="m06_obj_phillipe">SIGA [format][color:location]OLEG[/format]</String>
+	<String Name="m06_obj_ride_ball">MATE OS [format][color:kill]ALVOS[/format]</String>
+	<String Name="m06_obj_set_bomb">ARME [format][color:use]A BOMBA[/format]</String>
+	<String Name="m06_obj_syn_tower">VÁ PARA A [format][color:location]TORRE DOS SYNDICATE[/format]</String>
+	<String Name="m06_obj_to_factory">VÁ PARA A [format][color:location]FÁBRICA[/format]</String>
+	<String Name="m06_obj_to_oleg">VÁ [format][color:location]PARA CIMA[/format]</String>
+	<String Name="M06_Y_FOR_BOMB">ATIVE A BOMBA</String>
+	<String Name="M06_Y_FOR_DESTROY_BUILDING">DESTRUA O EDIFÍCIO</String>
+	<String Name="M06_Y_FOR_ELEVATOR">CHAMAR ELEVADOR</String>
+	<String Name="M06_Y_FOR_NO_BOMB">DESATIVE A BOMBA</String>
+	<String Name="M07_ACTION_INTERROGATE">INTERROGUE</String>
+	<String Name="M07_ACTION_UNTIE_KINZIE">LIBERTE KINZIE</String>
+	<String Name="m07_failure_angel_died">ANGEL MORREU!</String>
+	<String Name="m07_failure_club_owner_died">O GERENTE DO CLUBE MORREU!
+ MANTENHA-O VIVO ATÉ QUE VOCÊ O TENHA INTERROGADO.</String>
+	<String Name="m07_failure_kinzie_died">KINZIE MORREU!</String>
+	<String Name="m07_failure_oleg_died">OLEG MORREU!</String>
+	<String Name="m07_failure_patrons_died">NÄO MATE OS CLIENTES, INTERROGUE-OS COM {ACTION_IMG}</String>
+	<String Name="m07_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m07_failure_shaundi_died">SHAUNDI MORREU!</String>
+	<String Name="m07_failure_zimos_died">ZIMOS MORREU!</String>
+	<String Name="M07_OBJ_FIND_ANGEL">ENCONTRE [format][color:location]ANGEL[/format]</String>
+	<String Name="M07_OBJ_FIND_KINZIE">ENCONTRE [format][color:location]KINZIE[/format]</String>
+	<String Name="M07_OBJ_FIND_OWNER">ENCONTRE O [format][color:location]PROPRIETÁRIO[/format]</String>
+	<String Name="M07_OBJ_GO_TO_CLUB">CHEGUE AO [format][color:location]CLUBE DE SADOMASOQUISMO[/format]</String>
+	<String Name="M07_OBJ_GO_TO_ZIMOS">ENCONTRE [format][color:location]ZIMOS[/format]</String>
+	<String Name="M07_OBJ_GRAB_OWNER">INTERROGUE O [format][color:use]PROPRIETÁRIO[/format]</String>
+	<String Name="M07_OBJ_INTERROGATE_PATRONS">PEGUE OS [format][color:use]CLIENTES[/format]</String>
+	<String Name="M07_OBJ_KILL_LUCHADORES">MATE OS [format][color:kill]LUCHADORES[/format]</String>
+	<String Name="M07_OBJ_KILL_MORNINGSTAR">MATE OS [format][color:kill]MORNINGSTAR[/format]</String>
+	<String Name="M07_OBJ_PROTECT_ANGEL">PROTEJA A [format][color:defend]ANGEL[/format]</String>
+	<String Name="M07_OBJ_REACH_BARGE">CHEGUE NA [format][color:location]BARCA[/format]</String>
+	<String Name="M07_OBJ_UNTIE_KINZIE">LIBERTE [format][color:use]KINZIE[/format]</String>
+	<String Name="M08_ACTION_USE_ELEVATOR">USE O ELEVADOR</String>
+	<String Name="m08_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m08_failure_zimos_died">ZIMOS MORREU!</String>
+	<String Name="M08_OBJ_DESTROY_VEHICLES">DESTRUA OS [format][color:kill]HELICÓPTEROS[/format]</String>
+	<String Name="M08_OBJ_ENTER_CHOPPER">ENTRE NO [format][color:use]HELICÓPTERO[/format]</String>
+	<String Name="M08_OBJ_FIND_SNIPER_RIFLE">PEGUE O [format][color:use]RIFLE SNIPER[/format]</String>
+	<String Name="M08_OBJ_GET_TO_BASEMENT">VÁ ATÉ A [format][color:location]SALA DA MANUTENÇÄO[/format]</String>
+	<String Name="M08_OBJ_GET_TO_ROOF">SUBA NO [format][color:location]TELHADO[/format]</String>
+	<String Name="M08_OBJ_GO_TO_BASEMENT">PEGUE O [format][color:use]ELEVADOR[/format] PARA DESCER AO SÓTÄO</String>
+	<String Name="M08_OBJ_GO_TO_CHOPPER">CONSIGA UMA [format][color:use]ARMA ANTIAÉREA[/format]</String>
+	<String Name="M08_OBJ_GO_TO_ROOF">PEGUE O [format][color:use]ELEVADOR[/format] PARA SUBIR AO TELHADO</String>
+	<String Name="M08_OBJ_GO_UP_TO_BAR">SUBA NA [format][color:location]BARRA[/format] </String>
+	<String Name="M08_OBJ_KILL_SNIPERS">MATE OS [format][color:kill]SNIPERS[/format]</String>
+	<String Name="M08_OBJ_PROTECT_PIERCE">PROTEJA [format][color:defend]PIERCE[/format]</String>
+	<String Name="M08_OBJ_RESTORE_POWER">RESTAURE A [format][color:use]ENERGIA[/format]</String>
+	<String Name="M08_OBJ_REVIVE_PIERCE">REANIME [format][color:revive]PIERCE[/format]</String>
+	<String Name="M08_OBJ_STAIRS_TO_BASEMENT">ENCONTRE AS [format][color:location]ESCADAS[/format] PARA A SALA DE MANUTENÇÄO</String>
+	<String Name="M08_OBJ_STAIRS_TO_ROOF">ENCONTRE AS [format][color:location]ESCADAS[/format] PARA O TELHADO</String>
+	<String Name="M08_OBJ_SURVIVE_ASSAULT">[format][color:defend]SOBREVIVA[/format] AO ATAQUE INICIAL</String>
+	<String Name="M08_OBJ_TAKE_COVER_BEHIND_BAR">CUBRA-SE [format][color:location]ATRÁS DA BARRA[/format] </String>
+	<String Name="M08_USE_TRIGGER_RESTORE_POWER">RESTAURE A ENERGIA</String>
+	<String Name="m09_failure_girls_heli">HELICÓPTERO DAS VADIAS DESTRUÍDO!
+MATE OS MORNINGSTAR ANTES QUE ELES TE MATEM!</String>
+	<String Name="m09_failure_girls_truck">CAMINHÄO DESTRUÍDO!</String>
+	<String Name="m09_failure_ship_abandoned">MISSÄO ABANDONADA!</String>
+	<String Name="m09_failure_zimos_abandoned">ZIMOS FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m09_failure_zimos_died">ZIMOS MORREU!</String>
+	<String Name="M09_OBJ_CHOICE">VÁ AO [format][color:location]BORDEL[/format] OU AO [format][color:saints]QG DOS SAINTS[/format]</String>
+	<String Name="M09_OBJ_DEFEND_HELI">DEFENDA O [format][color:defend]HELICÓPTERO[/format]</String>
+	<String Name="M09_OBJ_FIND_THE_GIRLS">LOCALIZE AS [format][color:use]CAIXAS HO[/format]</String>
+	<String Name="M09_OBJ_GET_INTO_TRUCK">ENTRE NO [format][color:use]CAMINHÄO[/format]</String>
+	<String Name="M09_OBJ_GET_TO_THE_CHOPPER">PULE NO [format][color:location]HELICÓPTERO[/format]</String>
+	<String Name="M09_OBJ_GO_TO_SHIP">CHEGUE AO [format][color:location]NAVIO CARGUEIRO[/format]</String>
+	<String Name="M09_OBJ_KILL_ATTACKERS">MATE OS [format][color:kill]ATACANTES[/format]</String>
+	<String Name="M09_OBJ_KILL_GUARDS">MATE OS [format][color:kill]GUARDAS[/format]</String>
+	<String Name="M09_OBJ_NORTH_PLATFORM">CHEGUE ATÉ A [format][color:location]PLATAFORMA NORTE[/format]</String>
+	<String Name="M09_OBJ_PUT_GIRLS_IN_CRATE">LEVE AS VADIAS ATÉ A [format][color:location]CAIXA[/format]</String>
+	<String Name="M09_OBJ_SOUTH_PLATFORM">CHEGUE ATÉ A [format][color:location]PLATAFORMA SUL[/format]</String>
+	<String Name="M09_OBJ_TO_BROTHEL">VÁ ATÉ O [format][color:location]BORDEL DOS MORNINGSTAR[/format]</String>
+	<String Name="M09_OBJ_TO_SAINTS_HQ">VÁ ATÉ O [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="M09_OBJ_WAIT_FOR_CHOPPER">ESPERE O HELICÓPTERO</String>
+	<String Name="M09_OPEN_CONTAINER">ABRA O CONTAINER</String>
+	<String Name="M09_TITLE">O BARCO DAS VADIAS</String>
+	<String Name="m10_failure_oleg_died">OLEG MORREU!</String>
+	<String Name="m10_failure_oleg_dismissed">OLEG FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m10_failure_viola_died">VIOLA MORREU!</String>
+	<String Name="m10_failure_viola_dismissed">VIOLA FOI ABANDONADA!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m10_obj_call_elevator">TENTE CHAMAR O [format][color:use]ELEVADOR[/format]</String>
+	<String Name="m10_obj_escape_stag">[format][color:location]FUJA[/format] DA EMBOSCADA DA STAG</String>
+	<String Name="m10_obj_escape_to_saints_hq">FUJA PARA O [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="M10_OBJ_KILL_STAG_ON_ROOFS">MATE OS [format][color:kill]INIMIGOS DA STAG[/format]</String>
+	<String Name="M10_OBJ_KILL_STAG_SNIPERS">MATE OS [format][color:kill]SNIPERS DA STAG[/format]</String>
+	<String Name="M10_OBJ_KILL_STAG_VTOL">DESTRUA O [format][color:kill]VTOL[/format]</String>
+	<String Name="m10_obj_survive">SOBREVIVA</String>
+	<String Name="m11_fail_convoy">O COMBOIO FOI DESTRUÍDO.</String>
+	<String Name="m11_fail_oleg">OLEG MORREU!</String>
+	<String Name="m11_fail_stag">VOCÊ NÄO CONSEGUIU MANTER A ATENÇÄO DA STAG.</String>
+	<String Name="M11_OBJ_DESTROY_STAG">CHAME A ATENÇÄO DA [format][color:kill]STAG[/format]</String>
+	<String Name="M11_OBJ_DISTRACT_STAG">ENCONTRE UMA [format][color:location]BASE DA STAG[/format]</String>
+	<String Name="M11_OBJ_GO_AIR_BASE">INTERCEPTE A [format][color:location]AERONAVE DE VIGILÂNCIA[/format]</String>
+	<String Name="M11_OBJ_GO_OLEG">CHEGUE ATÉ [format][color:location]OLEG[/format]</String>
+	<String Name="M11_OBJ_GO_STAG_BASE">CHEGUE ATÉ A [format][color:location]BASE DA STAG[/format]</String>
+	<String Name="M11_OBJ_HELP_CONVOY">AJUDE O [format][color:location]COMBOIO[/format]</String>
+	<String Name="M11_OBJ_HELP_OLEG">AJUDE [format][color:defend]OLEG[/format]</String>
+	<String Name="M11_OBJ_HIJACK_VTOL">CAPTURE UM [format][color:use]VTOL[/format]</String>
+	<String Name="M11_OBJ_KILL_AIR_BASE">DESTRUA A [format][color:kill]AERONAVE DE VIGILÂNCIA[/format]</String>
+	<String Name="M11_OBJ_KILL_ROADBLOCK">ELIMINE O [format][color:kill]BLOQUEIO[/format]</String>
+	<String Name="m12_failure_cover_blown">SEU DISFARCE COMO CARDEAL JÁ ERA!
+ NÄO FAÇA NADA QUE CHAME A ATENÇÄO.</String>
+	<String Name="m12_failure_josh_abandoned">JOSH FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m12_failure_josh_died">JOSH MORREU!</String>
+	<String Name="m12_failure_suko_abandoned">VIOLA FOI ABANDONADA!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m12_failure_suko_died">VIOLA MORREU!</String>
+	<String Name="M12_OBJ_ENTER_THE_ELEVATOR">ENTRE NO [format][color:location]ELEVADOR[/format]</String>
+	<String Name="M12_OBJ_ENTER_THE_PR_CENTER">ENTRE NO [format][color:location]CENTRO DE R.P.[/format]</String>
+	<String Name="M12_OBJ_ESCAPE_THE_STAG_BUILDING">[format][color:location]FUJA[/format] DO EDIFÍCIO DA STAG</String>
+	<String Name="M12_OBJ_ESCAPE_TO_THE_SAINTS_HQ">FUJA DO [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="M12_OBJ_FIND_JOSH_BIRK">ENCONTRE [format][color:teal]JOSH BIRK[/format]</String>
+	<String Name="M12_OBJ_GET_TO_THE_ELEVATORS">VÁ PARA OS [format][color:location]ELEVADORES[/format]</String>
+	<String Name="M12_OBJ_GET_TO_THE_GARAGE">CHEGUE ATÉ A [format][color:location]GARAGEM[/format]</String>
+	<String Name="M12_OBJ_GO_TO_RECEPTION_DESK">VÁ ATÉ A [format][color:location]RECEPÇÄO[/format]</String>
+	<String Name="M12_OBJ_GO_TO_THE_PR_CENTER">VÁ ATÉ O [format][color:location]CENTRO DE R.P.[/format]</String>
+	<String Name="M12_OBJ_GRAB_JOSH_BIRK">PEGUE [format][color:use]JOSH BIRK[/format]</String>
+	<String Name="M12_OBJ_STEAL_A_VEHICLE">ROUBE UM [format][color:use]VEÍCULO[/format]</String>
+	<String Name="M12_OBJ_UNEQUIP_YOUR_WEAPON">LARGUE SUAS ARMAS</String>
+	<String Name="M12_PICKUP_JOSH_BIRK">PEGUE [format][color:use]JOSH BIRK[/format]</String>
+	<String Name="M12_USE_LOAD_JOSH">COLOQUE JOSH NO CARRO</String>
+	<String Name="m13_failure_failed_to_escape">NÄO CONSEGUIU ESCAPAR DO QG DOS SAINTS A TEMPO</String>
+	<String Name="m13_failure_josh_died">JOSH MORREU!</String>
+	<String Name="m13_failure_oleg_died">OLEG MORREU!</String>
+	<String Name="m13_failure_pierce_abandoned">PIERCE FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m13_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m13_failure_saints_hq_abandoned">O QG DOS SAINTS FOI ABANDONADO!</String>
+	<String Name="m13_failure_viola_abandoned">VIOLA FOI ABANDONADA!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m13_failure_viola_died">VIOLA MORREU!</String>
+	<String Name="M13_OBJ_CLEAR_THE_FLOOR">MATE OS HOMENS DA [format][color:kill]STAG[/format] NO CONVÉS DE OBSERVAÇÄO</String>
+	<String Name="M13_OBJ_COVER_PIERCE">DÊ FOGO DE COBERTURA A [format][color:defend]PIERCE[/format]</String>
+	<String Name="M13_OBJ_DEFEND_THE_NORTH">DEFENDA O [format][color:defend]NORTE[/format]</String>
+	<String Name="M13_OBJ_DEFEND_THE_SOUTH">DEFENDA O [format][color:defend]SUL[/format]</String>
+	<String Name="M13_OBJ_DESTROY_STAG_BANNER">QUEIME AS [format][color:kill]BANDEIRAS DA STAG[/format]</String>
+	<String Name="M13_OBJ_DETONATE_CAR_BOMBS">DISPARE UM [format][color:kill]CARRRO BOMBA[/format]</String>
+	<String Name="M13_OBJ_ESCAPE">[format][color:location]PULE[/format] PELO ALPENDRE</String>
+	<String Name="M13_OBJ_GOTO_ELEVATOR">VÁ ATÉ UM [format][color:location]ELEVADOR[/format]</String>
+	<String Name="M13_OBJ_GOTO_PENTHOUSE">VÁ ATÉ O [format][color:location]ALPENDRE[/format]</String>
+	<String Name="M13_OBJ_GOTO_PIERCE">VÁ ATÉ [format][color:location]PIERCE[/format]</String>
+	<String Name="M13_OBJ_GOTO_PR_CENTER">VÁ ATÉ O [format][color:location]CENTRO DE R.P.[/format]</String>
+	<String Name="M13_OBJ_GOTO_SAINTS_HQ">RETORNE AO [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="M13_OBJ_GOTO_SHAUNDI">VÁ ATÉ [format][color:location]SHAUNDI[/format]</String>
+	<String Name="M13_OBJ_HELP_VIOLA">AJUDE [format][color:defend]VIOLA[/format]</String>
+	<String Name="M13_OBJ_TAKE_OUT_THE_SNIPERS">MATE OS [format][color:kill]SNIPERS[/format]</String>
+	<String Name="M13_OBJ_TAKE_OUT_THE_TANKS">DESTRUA OS [format][color:kill]TANQUES[/format]</String>
+	<String Name="M13_OBJ_TAKE_OUT_THE_VTOLS">DESTRUA OS [format][color:kill]VTOLS[/format]</String>
+	<String Name="M13_OBJ_THROW_JOSH">LEVE [format][color:use]JOSH[/format] ATÉ [format][color:purple]SHAUNDI[/format] OU [format][color:blue]CYRUS[/format]</String>
+	<String Name="M13_PROMPT_THROW_JOSH_TO_CYRUS">LEVE JOSH ATÉ CYRUS</String>
+	<String Name="M13_PROMPT_THROW_JOSH_TO_SHAUNDI">LEVE JOSH ATÉ SHAUNDI</String>
+	<String Name="M14_ACTION_TRANSMITTER">PLANTE O TRANSMISSOR</String>
+	<String Name="m14_failure_heli_abandoned">VOCÊ ABANDONOU SEU HELICÓPTERO!</String>
+	<String Name="m14_failure_heli_destroyed">SEU HELICÓPTERO FOI DESTRUÍDO!</String>
+	<String Name="m14_failure_heli_unreachable">O HELICÓPTERO ESTÁ FORA DE ALCANCE!</String>
+	<String Name="m14_failure_jane_died">JANE MORREU!
+ NÄO A MATE, ELA PODE AJUDAR A ENCONTRAR KILLBANE.</String>
+	<String Name="m14_failure_killbane_escaped">TEMPO ESGOTADO! KILLBANE ESCAPOU!</String>
+	<String Name="m14_failure_shaundi_abandoned">SHAUNDI FOI ABANDONADA!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m14_failure_shaundi_died">SHAUNDI MORREU!</String>
+	<String Name="m14_failure_van_destroyed">UNIDADE MÓVEL DESTRUÍDA!
+ APROXIME-SE E APONTE NA VAN COM {ANALOG_RS_IMG}.</String>
+	<String Name="M14_LABEL_ACQUIRING_TARGET">FIXANDO O ALVO</String>
+	<String Name="M14_LABEL_PLANTING_TRANSMITTER">PLANTANDO TRANSMISSOR</String>
+	<String Name="M14_OBJ_CATCH_KILLBANE">CAPTURE [format][color:location]KILLBANE[/format]</String>
+	<String Name="M14_OBJ_CLEAR_DECKERS">ELIMINE OS [format][color:kill]DECKERS[/format]</String>
+	<String Name="M14_OBJ_ENTER_BUILDING">ENTRE NO [format][color:location]EDIFÍCIO[/format]</String>
+	<String Name="M14_OBJ_GET_IN_HELI">ENTRE NO [format][color:location]HELICÓPTERO[/format]</String>
+	<String Name="M14_OBJ_GO_TO_HELI">VÁ ATÉ O [format][color:location]HELICÓPTERO[/format]</String>
+	<String Name="M14_OBJ_GO_TO_INTERVIEW">VÁ PARA A [format][color:location]ENTREVISTA[/format]</String>
+	<String Name="M14_OBJ_GO_TO_TOWER">VÁ PARA A [format][color:location]TORRE DE RÁDIO[/format]</String>
+	<String Name="M14_OBJ_GO_TO_VAN">APROXIME-SE DA [format][color:location]UNIDADE MÓVEL[/format]</String>
+	<String Name="M14_OBJ_PLANT_TRANSMITTER">PLANTE O [format][color:use]TRANSMISSOR[/format]</String>
+	<String Name="M14_OBJ_TALK_TO_JANE">FALE COM [format][color:location]JANE[/format]</String>
+	<String Name="M14_OBJ_TARGET_VAN">MIRE NA [format][color:use]UNIDADE MÓVEL[/format]</String>
+	<String Name="m15_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m15_failure_pierce_dismissed">PIERCE FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m15_failure_truck_crushed">SUPERCOMPUTADOR DESTRUÍDO! 
+USE A METRALHADORA {TANK_FIRE_PRIMARY_IMG} PARA DESTRUIR SUAS RODAS.</String>
+	<String Name="m15_failure_truck_deckers_hq">OS DECKERS TÊM O SUPERCOMPUTADOR!</String>
+	<String Name="m15_failure_truck_destroyed">SUPERCOMPUTADOR DESTRUÍDO! 
+USE A METRALHADORA {TANK_FIRE_PRIMARY_IMG} PARA DESTRUIR SUAS RODAS.</String>
+	<String Name="M15_MSG_USE_ALT_FIRE">{TANK_FIRE_PRIMARY_IMG} DISPARAR METRALHADORA</String>
+	<String Name="M15_OBJ_CATCH_THE_TRUCK">PEGUE O [format][color:location]CAMINHÄO[/format]</String>
+	<String Name="M15_OBJ_CLEAR_THE_LOBBY">LIMPE O [format][color:kill]VESTÍBULO[/format]</String>
+	<String Name="M15_OBJ_DISABLE_THE_TRUCK">DANIFIQUE AS RODAS DO [format][color:kill]CAMINHÄO[/format]</String>
+	<String Name="M15_OBJ_ESCAPE_THE_GARAGE">[format][color:location]FUJA[/format] DA GARAGEM</String>
+	<String Name="M15_OBJ_GET_IN_THE_TANK">ROUBE O [format][color:use]TANQUE[/format]</String>
+	<String Name="M15_OBJ_GET_TO_THE_GARAGE">CHEGUE A [format][color:location]GARAGEM[/format]</String>
+	<String Name="M15_OBJ_GO_TO_PR_CENTER">CHEGUE AO [format][color:location]CENTRO DE R.P. DA STAG[/format]</String>
+	<String Name="m16_choose_company_a">FABRICANTE DE ARMAS</String>
+	<String Name="m16_choose_company_b">DISTRIBUIDOR DE VEÍCULOS</String>
+	<String Name="m16_failure_tank_destroyed">HAHA, SEU TANQUE FOI DESTRUÍDO!</String>
+	<String Name="m16_obj_choose_a_company">ESCOLHA UMA [format][color:use]EMPRESA[/format]</String>
+	<String Name="m16_obj_debug_error">DEPURE A [format][color:kill]TELA DE ERROS[/format]</String>
+	<String Name="m16_obj_goto_anti_virus">CHEGUE ATÉ O [format][color:location]ANTI-VIRUS[/format]</String>
+	<String Name="m16_obj_goto_firewall">CHEGUE ATÉ O [format][color:location]FIREWALL[/format]</String>
+	<String Name="m16_obj_goto_internet_security">CHEGUE ATÉ O [format][color:location]SISTEMA DE SEGURANÇA DA INTERNET[/format]</String>
+	<String Name="m16_obj_kill_all_enemies">MATE TODOS OS [format][color:kill]DECKERS[/format]</String>
+	<String Name="m16_obj_kill_matt">DESTRUA O [format][color:kill]AVATAR DE MATT MILLER[/format]</String>
+	<String Name="m16_obj_kill_tanks">PROCURE E DESTRUA OS [format][color:kill]TANQUES[/format] INIMIGOS</String>
+	<String Name="M16_OBJ_MOVE_THROUGH_DATA">MOVA-SE ENTRE OS DADOS</String>
+	<String Name="m16_obj_survive_onslaught">SOBREVIVA AO ATAQUE</String>
+	<String Name="m16_obj_survive_text">SOBREVIVA A [format][color:defend]AVENTURA DE TEXTO[/format]</String>
+	<String Name="m16_txt_adv_sc_00">Você se desperta sobre algumas lajes frias. Ao levantar, você percebe que a pequena sala é iluminada por duas tochas. Ao norte há uma porta, ao sul um buraco na parede.
+
+O que você faz?
+
+</String>
+	<String Name="m16_txt_adv_sc_00_ch1">ABRIR A PORTA</String>
+	<String Name="m16_txt_adv_sc_00_ch2">PEGAR UMA TOCHA</String>
+	<String Name="m16_txt_adv_sc_00_ch3">PASSAR PELO BURACO</String>
+	<String Name="m16_txt_adv_sc_00_ch4">TIRAR UMA SONECA</String>
+	<String Name="m16_txt_adv_sc_01">Você näo é grande o suficiente para ir pelo buraco.
+
+O que gostaria de fazer?
+
+</String>
+	<String Name="m16_txt_adv_sc_01_ch1">ABRIR A PORTA</String>
+	<String Name="m16_txt_adv_sc_01_ch2">PEGAR UMA TOCHA</String>
+	<String Name="m16_txt_adv_sc_01_ch3">TIRAR UMA SONECA</String>
+	<String Name="m16_txt_adv_sc_02">Você abre a porta cautelosamente e começa a andar quando seu pé pisa em uma laje solta.
+
+Você cai e quebra o seu pescoço.
+
+Você está morto.
+
+Obrigado por jogar Dragöes e Lágrimas: Parte 1 da Trilogia da Escuridäo em Espiral
+
+</String>
+	<String Name="m16_txt_adv_sc_02_ch1">COMEÇAR DE NOVO</String>
+	<String Name="m16_txt_adv_sc_03">Você pega a tocha na parede e abre a porta. Na sua frente há um corredor obscuro que se perde em uma escuridäo tenebrosa. Após se sentir caminhando por uma eternidade, você percebe que a tocha está se apagando.
+
+O que você faz?
+
+</String>
+	<String Name="m16_txt_adv_sc_03_ch1">CONTINUAR CAMINHANDO</String>
+	<String Name="m16_txt_adv_sc_03_ch2">PROCURAR PORTAS SECRETAS</String>
+	<String Name="m16_txt_adv_sc_03_ch3">CORRA PARA PEGAR A OUTRA TOCHA</String>
+	<String Name="m16_txt_adv_sc_04">Näo há portas secretas.
+
+O que gostaria de fazer?
+
+</String>
+	<String Name="m16_txt_adv_sc_04_ch1">CONTINUAR CAMINHANDO</String>
+	<String Name="m16_txt_adv_sc_04_ch2">CORRA PARA PEGAR A OUTRA TOCHA</String>
+	<String Name="m16_txt_adv_sc_05">Você começa a correr desesperadamente de volta para a sala principal e entäo o seu pé pisa em um pedaço de laje solto.
+
+Você cai e quebra o seu pescoço.
+
+Você está morto.
+
+Obrigado por jogar Dragöes e Lágrimas: Parte 1 da Trilogia da Escuridäo em Espiral
+
+</String>
+	<String Name="m16_txt_adv_sc_05_ch1">COMEÇAR DE NOVO</String>
+	<String Name="m16_txt_adv_sc_06">Você avança pedindo aos 31 deuses de Diaz para que näo deixem a tocha se apagar. Felizmente, ela näo se apaga. Diante de você, a escuridäo começa a dar lugar à uma luz tênue e anil que ilumina o corredor. Você escuta o som de uma grande rocha se chocando.
+
+O que você faz?
+
+</String>
+	<String Name="m16_txt_adv_sc_06_ch1">CONTINUAR CAMINHANDO</String>
+	<String Name="m16_txt_adv_sc_06_ch2">SACAR ESPADA</String>
+	<String Name="m16_txt_adv_sc_06_ch3">LANÇAR UM FEITIÇO</String>
+	<String Name="m16_txt_adv_sc_07">Você näo conhece magia.
+
+O que gostaria de fazer?
+
+</String>
+	<String Name="m16_txt_adv_sc_07_ch1">CONTINUAR CAMINHANDO</String>
+	<String Name="m16_txt_adv_sc_07_ch2">SACAR ESPADA</String>
+	<String Name="m16_txt_adv_sc_08">Você sente que um grande mal está se aproximando do corredor. Enquanto você espera, um pedaço do teto se solta.
+
+Ele cai na sua cabeça e quebra o seu pescoço.
+
+Você está morto.
+
+Obrigado por jogar Dragöes e Lágrimas: Parte 1 da Trilogia da Escuridäo em Espiral
+
+</String>
+	<String Name="m16_txt_adv_sc_08_ch1">COMEÇAR DE NOVO</String>
+	<String Name="m16_txt_adv_sc_09">Enquanto você vai em direçäo ao resplendor, o corredor leva até uma grande caverna onde a fonte da luz é descoberta... todo o lugar está iluminado por um enorme lago luminescente. Na margem do lago há um unicórnio.
+
+O que você faz?
+
+</String>
+	<String Name="m16_txt_adv_sc_09_ch1">OLHAR PARA O UNICÓRNIO</String>
+	<String Name="m16_txt_adv_sc_09_ch2">ACARICIAR O UNICÓRNIO</String>
+	<String Name="m16_txt_adv_sc_09_ch3">MATAR O UNICÓRNIO</String>
+	<String Name="m16_txt_adv_sc_10">Se parece com um unicórnio.
+
+O que gostaria de fazer?
+
+</String>
+	<String Name="m16_txt_adv_sc_10_ch1">ACARICIAR UNICÓRNIO</String>
+	<String Name="m16_txt_adv_sc_10_ch2">MATAR UNICÓRNIO</String>
+	<String Name="m16_txt_adv_sc_11">Você passa as mäos nas crinas de um unicórnio. A criatura relincha suavemente e te acaricia com a cabeça em resposta. Seu chifre perfura um dos seus olhos e você se recolhe em dor. Ao fazê-lo, você tropeça em uma laje solta.
+
+Você cai e quebra o seu pescoço.
+
+Você está morto.
+
+Obrigado por jogar Dragöes e Lágrimas: Parte 1 da Trilogia da Escuridäo em Espiral
+
+</String>
+	<String Name="m16_txt_adv_sc_11_ch1">COMEÇAR DE NOVO</String>
+	<String Name="m16_txt_adv_sc_12">Você venceu.
+
+Obrigado por jogar Dragöes e Lágrimas: Parte 1 da Trilogia da Escuridäo em Espiral
+
+</String>
+	<String Name="m16_txt_adv_sc_12_ch1">JOGAR DE NOVO</String>
+	<String Name="m16_txt_adv_sc_12_ch2">SAIR DO JOGO</String>
+	<String Name="M17_12_HOURS_LATER">12 HORAS DEPOIS</String>
+	<String Name="M17_BRIG_DOORS">ATIVE AS PORTAS DE SEGURANÇA</String>
+	<String Name="M17_ERROR_SCREEN_CONTINUE_MSG">O verdadeiro jogo começa agora &gt;:) 
+
+Pressione qualquer botäo para continuar</String>
+	<String Name="m17_failure_escape">VOCÊ MORREU!
+ MOVA-SE RAPIDAMENTE PARA FUGIR DA EXPLOSÄO.</String>
+	<String Name="m17_failure_follow">SEU DISFARCE COMO CYRUS JÁ ERA!
+ NÄO FAÇA NADA QUE CHAME A ATENÇÄO.</String>
+	<String Name="m17_failure_homie_abandoned">COLEGA ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m17_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m17_failure_shaundi_died">SHAUNDI MORREU!</String>
+	<String Name="m17_failure_viola_died">VIOLA MORREU!</String>
+	<String Name="M17_OBJ_BOARD_SHIP">POUSE NO [format][color:location]THERMOPYLAE[/format]</String>
+	<String Name="M17_OBJ_DESTROY_REACTOR">DESTRUA O [format][color:kill]CONSOLE[/format]</String>
+	<String Name="M17_OBJ_ESCAPE_SHIP">[format][color:location]ESCAPE[/format] DO THERMOPYLAE</String>
+	<String Name="M17_OBJ_FIND_BRIG">ENCONTRE OS [format][color:location]CALABOUÇOS[/format]</String>
+	<String Name="M17_OBJ_FIND_HELI">ENCONTRE UM [format][color:location]VTOL[/format]</String>
+	<String Name="M17_OBJ_FIND_REACTOR">ENCONTRE O [format][color:location]REATOR[/format]</String>
+	<String Name="M17_OBJ_FOLLOW_KIA">SIGA [format][color:location]KIA[/format]</String>
+	<String Name="M17_OBJ_HIJACK_VTOL">CAPTURE UM [format][color:use]VTOL[/format]</String>
+	<String Name="M17_OBJ_JAILBREAK">LIBERTE OS SEUS [format][color:use]AMIGOS[/format]</String>
+	<String Name="M17_TIMER_ESCAPE">FUJA</String>
+	<String Name="M18_BAIL_FROM_TANK">ESCAPE DO TANQUE</String>
+	<String Name="M18_HELP_CLEARING_DEBRIS">O [format][color:use]BUM SÔNICO[/format] É A FERRAMENTA IDEAL PARA MOVER ESCOMBROS E QUALQUER OUTRA COISA QUE ESTIVER NO SEU CAMINHO</String>
+	<String Name="M18_HELP_GET_CLOSER_TO_DOOR">O [format][color:use]Bum Soônico[/format] näo aparenta ter efeito a essa distância. Tente ficar mais perto da [format][color:location]porta[/format].</String>
+	<String Name="M18_OBJ_BAIL_FROM_TANK">ESCAPE DO [format][color:use]TANQUE[/format]</String>
+	<String Name="M18_OBJ_DESTROY_COCKPIT">DESTRUA A [format][color:kill]PORTA[/format] COM O BUM SÔNICO</String>
+	<String Name="M18_OBJ_ESCAPE_IN_TANK">[format][color:location]FUJA[/format] DO AVIÄO</String>
+	<String Name="M18_OBJ_GET_TO_COCKPIT">ABRA A [format][color:use]PORTA[/format]</String>
+	<String Name="M18_OBJ_HIJACK_TANK">ROUBE O [format][color:location]TANQUE[/format]</String>
+	<String Name="M18_OBJ_KILL_THE_GUNNER">MATE O [format][color:kill]ARTILHEIRO DO TANQUE[/format]</String>
+	<String Name="M18_OBJ_SEARCH_FOR_GUN">PROCURE AS [format][color:use]CAIXAS DE ARMAS[/format]</String>
+	<String Name="M18_OBJ_SURVIVE">MATE OS [format][color:kill]ATACANTES DA STAG[/format]</String>
+	<String Name="m19_failure_container_destroyed">CONTAINER DESTRUÍDO!
+ USE APENAS O BUM SÔNICO PARA MANTER OS CONTEINERES INTACTOS.</String>
+	<String Name="m19_failure_rimjobs_timer">NÄO CHEGOU AO RIM JOBS A TEMPO!</String>
+	<String Name="m19_failure_suko_abandoned">VIOLA FOI ABANDONADA!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m19_failure_suko_died">VIOLA MORREU!</String>
+	<String Name="M19_OBJ_CHOICE">[format][color:location]FUJA[/format] COM O CAMINHÄO OU [format][color:red]AFUNDE-O[/format] </String>
+	<String Name="M19_OBJ_GET_IN_TRUCK">PEGUE O [format][color:use]CAMINHÄO DE PRODUTOS QUÍMICOS[/format]</String>
+	<String Name="M19_OBJ_GO_TO_ENTRANCE">VÁ PARA A [format][color:location]ZONA DE QUARENTENA[/format]</String>
+	<String Name="M19_OBJ_GO_TO_RIMJOBS">VÁ AO [format][color:location]RIM JOBS[/format]</String>
+	<String Name="M19_OBJ_GO_TO_VIOLA">VÁ ATÉ [format][color:location]VIOLA[/format]</String>
+	<String Name="M19_OBJ_KILL_ZOMBIES">MATE OS [format][color:red]ZUMBIS[/format]</String>
+	<String Name="M19_OBJ_NEUTRALIZE_CONTAINERS">[format][color:red]AFUNDE[/format] OS CONTAINERS </String>
+	<String Name="M19_OBJ_OPEN_DOOR">ABRA A [format][color:use]PORTA[/format]</String>
+	<String Name="M19_OBJ_PROTECT_VIOLA">PROTEJA [format][color:defend]VIOLA[/format]</String>
+	<String Name="M19_OBJ_RESCUE_VIOLA">VÁ ATÉ [format][color:location]VIOLA[/format]</String>
+	<String Name="m20_failure_angel_heli_destroyed">HELICÓPTERO DESTRUÍDO!</String>
+	<String Name="m20_failure_ctb_destroyed">VOCÊ PERDEU A FESTA!</String>
+	<String Name="m20_failure_ctc_destroyed">NÄO FORAM MORTOS PEDESTRES O SUFICIENTE!</String>
+	<String Name="m20_failure_lost_signal">SINAL PERDIDO!</String>
+	<String Name="m20_failure_no_tanks_to_you">TODOS OS TANQUES DA STAG FORAM DESTRUÍDOS!</String>
+	<String Name="m20_failure_premature_hijackulation">VOCÊ ESCAPOU MUITO CEDO!</String>
+	<String Name="m20_failure_rc_heli_destroyed">HELICÓPTERO ISCA DESTRUÍDO!</String>
+	<String Name="m20_failure_rc_too_late">VOCÊ ESPEROU MUITO PARA CONTROLAR O VEÍCULO!</String>
+	<String Name="m20_failure_vehicle_exit">O PASSAGEIRO ESCAPOU!</String>
+	<String Name="M20_OBJ_ALIGN_HELI">SOBREVOE PERTO DO [format][color:location]VEÍCULO[/format]</String>
+	<String Name="M20_OBJ_ALIGN_TO_BOATS">SOBREVOE PRÓXIMO AOS [format][color:location]BARCOS[/format]</String>
+	<String Name="M20_OBJ_ALIGN_TO_TANKS">SOBREVOE PRÓXIMO AOS [format][color:location]TANQUES[/format]</String>
+	<String Name="M20_OBJ_CRASH_BEACH_PARTY">BATA NA [format][color:location]FESTA DA PRAIA[/format]</String>
+	<String Name="M20_OBJ_CRASH_THE_BOAT">BATA NO [format][color:kill]BARCO[/format]</String>
+	<String Name="M20_OBJ_CRASH_THE_CAR">BATA NA [format][color:location]BOMBA DE COMBUSTÍVEL[/format]</String>
+	<String Name="M20_OBJ_CRASH_THE_HELICOPTER">BATA NO [format][color:kill]HELICÓPTERO[/format]</String>
+	<String Name="M20_OBJ_GET_IN_ANGEL_HELI">ENTRE NO [format][color:location]HELICÓPTERO DE ANGEL[/format]</String>
+	<String Name="M20_OBJ_GET_UP_TO_SPEED">ACELERE O [format][color:kill]CARRO[/format]</String>
+	<String Name="M20_OBJ_GO_TO_AIRPORT">VÁ AO [format][color:location]AEROPORTO[/format]</String>
+	<String Name="M20_OBJ_GO_TO_BOAT">ENCONTRE O [format][color:location]BARCO DOS LUTADORES[/format]</String>
+	<String Name="M20_OBJ_GO_TO_GAS_STATION">VÁ ATÉ O [format][color:location]POSTO DE GASOLINA[/format]</String>
+	<String Name="M20_OBJ_GO_TO_GYM">VÁ ATÉ O [format][color:location]GIMNASIO[/format]</String>
+	<String Name="M20_OBJ_GO_TO_HARBOR">VÁ ATÉ O [format][color:location]PORTO[/format]</String>
+	<String Name="M20_OBJ_GO_TO_HELICOPTER">VÁ ATÉ O [format][color:location]HELICÓPTERO[/format]</String>
+	<String Name="M20_OBJ_KILL_THE_LAST_WRESTLER">MATE O ÚLTIMO [format][color:kill]LUTADOR[/format]</String>
+	<String Name="M20_OBJ_RC_A_BOAT">CONTROLE REMOTAMENTE UM [format][color:use]BARCO[/format]</String>
+	<String Name="M20_OBJ_RC_A_TANK">CONTROLE REMOTAMENTE UM [format][color:use]TANQUE DA STAG[/format]</String>
+	<String Name="M20_OBJ_RC_THE_BOAT">CONTROLE REMOTAMENTE O [format][color:use]BARCO DOS LUTADORES[/format]</String>
+	<String Name="M20_OBJ_RC_THE_CAR">CONTROLE REMOTAMENTE O [format][color:use]CARRO DOS LUTADORES[/format]</String>
+	<String Name="M20_OBJ_RC_THE_HELICOPTER">CONTROLE REMOTAMENTE O [format][color:use]HELICÓPTERO[/format]</String>
+	<String Name="M20_OBJ_RUN_OVER_PEOPLE">ATROPELE OS [format][color:kill]PEDESTRES[/format]</String>
+	<String Name="M20_OBJ_STAY_CLOSE">FIQUE PERTO DO [format][color:location]VEÍCULO[/format]</String>
+	<String Name="M20_OBJ_USE_RAMP">BATA NA [format][color:use]RAMPA[/format]</String>
+	<String Name="M20_OBJ_WAIT_FOR_ENTER">ESPERE O [format][color:use]LUTADOR[/format] ENTRAR NO CARRO</String>
+	<String Name="M20_PEDS">PEDESTRES</String>
+	<String Name="M21_FAILURE_ANGEL_DIED">ANGEL MORREU!</String>
+	<String Name="M21_HELP_TEXT_WATING_TO_TAG">Esperando ser marcado pelo seu parceiro.</String>
+	<String Name="m21_obj_defend_the_ring">DEFENDA O [format][color:defend]RINGUE[/format]</String>
+	<String Name="m21_obj_enter_the_ring">ENTRE NO [format][color:location]RINGUE[/format]</String>
+	<String Name="m21_obj_fight_killbane">ENFRENTE [format][color:kill]KILLBANE[/format]</String>
+	<String Name="M21_OBJ_GO_TO_ANGEL">CONTROLE A [format][color:location]ANGEL[/format]</String>
+	<String Name="m21_obj_kill_luchadores">MATE OS [format][color:kill]LUTADORES[/format]</String>
+	<String Name="m21_obj_protect_angel">PROTEJA A [format][color:defend]ANGEL[/format]</String>
+	<String Name="M21_USE_TEXT_GO_RING_SIDE">VÁ PARA PERTO DO RINGUE</String>
+	<String Name="M21_USE_TEXT_LEAVE_RING_SIDE">SAIA DO RINGUE</String>
+	<String Name="M21_USE_TEXT_TAG_OUT">MARCAR PARCEIRO</String>
+	<String Name="m22_failure_killbane_escaped">KILLBANE ESCAPOU!
+ USE O LANÇA-FOGUETES PARA DETER SUA FUGA.</String>
+	<String Name="m22_failure_oleg_abandoned">OLEG FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m22_failure_oleg_died">OLEG MORREU!</String>
+	<String Name="m22_failure_pierce_abandoned">PIERCE FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="m22_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="m22_failure_shaundi_died">SHAUNDI MORREU!
+ USE AS GRANADAS PARA SEPARAR KIA E SHAUNDI, E DEPOIS ACABE COM KIA.</String>
+	<String Name="m22_failure_statue_blown_up">ESTÁTUA DESTRUÍDA!
+ CUIDADO AO USAR O BUM SÔNICO EM BOMBAS, NÄO DEIXE-AS ACERTAR EM NADA.</String>
+	<String Name="m22_obj_clear_armory">LIMPE O [format][color:kill]ARSENAL[/format]</String>
+	<String Name="m22_obj_clear_battlezone">LIMPE O [format][color:kill]LOCAL[/format]</String>
+	<String Name="m22_obj_goto_armory">VÁ PARA O [format][color:location]ARSENAL[/format]</String>
+	<String Name="m22_obj_goto_battlezone">VÁ PARA UM [format][color:location]LOCAL DE COMBATE[/format]</String>
+	<String Name="m22_obj_goto_statue">CHEGUE ATÉ A [format][color:location]ESTÁTUA[/format]</String>
+	<String Name="m22_obj_help_angel">AJUDE [format][color:defend]ANGEL[/format]</String>
+	<String Name="m22_obj_kill_kia">MATE [format][color:kill]KIA[/format]</String>
+	<String Name="m22_obj_kill_killbane">MATE [format][color:kill]KILLBANE[/format]</String>
+	<String Name="m22_obj_killbane_or_shaundi">[format][color:red]MATE KILLBANE[/format] OU [format][color:defend]SALVE A SHAUNDI[/format]</String>
+	<String Name="m22_obj_proceed_up_statue">SUBA PELA [format][color:location]ESTÁTUA[/format]</String>
+	<String Name="m22_obj_remove_bombs">[format][color:use]BOMBAS[/format] REMOVIDAS</String>
+	<String Name="m22_obj_stop_killbane">PARE O [format][color:kill]AVIÄO DO KILLBANE[/format]</String>
+	<String Name="M22_OI_KILLBANE_BODY_TEXT">Mate Killbane, mas Shaundi morrerá.</String>
+	<String Name="M22_OI_KILLBANE_TITLE_TEXT">IR AO AEROPORTO</String>
+	<String Name="M22_OI_SHAUNDI_BODY_TEXT">Salve Shaundi, mas Killbane vai escapar.</String>
+	<String Name="M22_OI_SHAUNDI_TITLE_TEXT">VÁ PARA A ESTÁTUA</String>
+	<String Name="m22_untie">DESATAR</String>
+	<String Name="m23_failure_cyrus_escaped">CYRUS ESCAPOU!
+ NÄO DEIXE O DAEDALUS ATÉ QUE ELE ESTEJA MORTO.</String>
+	<String Name="M23_OBJ_CLEAR_MIDSECTION">MATE OS HOMENS DA [format][color:kill]STAG[/format]</String>
+	<String Name="M23_OBJ_DESTROY_DEFENSES">DESTRUA AS [format][color:kill]DEFESAS TERRESTRES[/format]</String>
+	<String Name="M23_OBJ_DESTROY_GUNS">DESTRUA OS [format][color:kill]CANHÖES[/format]</String>
+	<String Name="M23_OBJ_DESTROY_TANKS">DESTRUA OS [format][color:kill]TANQUES[/format] QUE PROTEGEM A ZONA DE ATERRISSAGEM</String>
+	<String Name="M23_OBJ_ESCAPE">FUJA DO [format][color:location]DAEDALUS[/format]</String>
+	<String Name="M23_OBJ_FLY_TO_REAR_DECK">VOE PARA O [format][color:location]DECK TRASEIRO[/format]</String>
+	<String Name="M23_OBJ_FLY_TO_SIDE_DECK">VOE PARA O [format][color:location]DECK LATERAL[/format]</String>
+	<String Name="M23_OBJ_GET_HELICOPTER">CONSIGA UM [format][color:location]HELICÓPTERO[/format]</String>
+	<String Name="M23_OBJ_GO_TO_BRIDGE">CHEGUE ATÉ A [format][color:location]PONTE[/format]</String>
+	<String Name="M23_OBJ_GO_TO_DAEDALUS">VÁ PARA O [format][color:location]DAEDALUS[/format]</String>
+	<String Name="M23_OBJ_GO_TO_REAR_DECK">VÁ PARA O [format][color:location]DECK TRASEIRO[/format]</String>
+	<String Name="M23_OBJ_INITIATE_SELF_DESTRUCT">USE O [format][color:use]CONSOLE[/format]</String>
+	<String Name="M23_OBJ_KILL_BRIDGE_GUARDS">MATE OS [format][color:kill]GUARDAS DA PONTE[/format]</String>
+	<String Name="M23_OBJ_KILL_CYRUS">MATE O [format][color:kill]CYRUS[/format]</String>
+	<String Name="M23_OBJ_LAND_ON_DAEDALUS">ATERRISSE NO [format][color:location]DAEDALUS[/format]</String>
+	<String Name="M23_OBJ_PLANT_BOMB">PLANTE A [format][color:use]BOMBA[/format]</String>
+	<String Name="M23_TRIGGER_AUTO_DESTRUCT">INICIAR SEQUÊNCIA DE AUTO-DESTRUIÇÄO</String>
+	<String Name="M23_USE_PLANT_BOMB_TRIGGER">PLANTE A BOMBA</String>
+	<String Name="m24_failure_killed_in_blast">VOCÊ FOI MORTO NA EXPLOSÄO!</String>
+	<String Name="m24_hack_terminal">HACKEAR TERMINAL</String>
+	<String Name="M24_HELP_HOMIE">AJUDE O [format][color:use]SEU PARCEIRO[/format]</String>
+	<String Name="m24_obj_defeat_killbane">ATIRE NOS [format][color:kill]CRISTAIS DE LAVA[/format]</String>
+	<String Name="M24_OBJ_DISABLE_SECURITY_NETWORK">DESATIVE OS [format][color:use]CAMPOS DE FORÇA[/format]</String>
+	<String Name="m24_obj_goto_killbane_lair">VÁ AO [format][color:location]COVIL DO KILLBANE[/format]</String>
+	<String Name="m24_obj_plant_charges">PLANTE AS [format][color:use]CARGAS EXPLOSIVAS[/format]</String>
+	<String Name="m24_obj_run_for_cover">PROTEJA-SE</String>
+	<String Name="m24_plant_charge">PLANTAR CARGA</String>
+	<String Name="METAGAME_EXPLOSION_KILL">MORTOS POR EXPLOSÖES</String>
+	<String Name="METAGAME_GANG_BOSS">CHEFE DE GANGUE</String>
+	<String Name="METAGAME_GANG_LIEUTENANT">TENENTE DA GANGUE</String>
+	<String Name="METAGAME_GANG_MEMBER">MEMBRO DE GANGUE</String>
+	<String Name="METAGAME_GANG_VEHICLE">VEÍCULO DE GANGUE</String>
+	<String Name="METAGAME_HEADSHOT_KILL">TIRO NA CABEÇA</String>
+	<String Name="METAGAME_MELEE_KILL">MORTOS POR LUTA CORPORAL</String>
+	<String Name="METAGAME_MISSION_OBJECTIVE">OBJETIVO DA MISSÄO</String>
+	<String Name="METAGAME_NUTSHOT_KILL">TIRO NO SACO</String>
+	<String Name="METAGAME_OTHER">OUTRO</String>
+	<String Name="METAGAME_PLAYER_DEATH">MORTE</String>
+	<String Name="METAGAME_QUICK_KILL">MORTE RÁPIDA</String>
+	<String Name="METAGAME_REVIVE_HOMIE">REANIMAR PARCEIRO</String>
+	<String Name="METAGAME_SUCCESS_LOSE">Seu parceiro ganhou mais pontos que você.</String>
+	<String Name="METAGAME_SUCCESS_TIE">Você e seu parceiro empataram.</String>
+	<String Name="METAGAME_SUCCESS_WIN">Você superou o seu parceiro e ganhou $%.0f!</String>
+	<String Name="MISSION_CHECKPOINT">PONTO DE CONTROLE!</String>
+	<String Name="MISSION_CHECKPOINT_ALERT">PONTO DE CONTROLE ALCANÇADO</String>
+	<String Name="MISSION_COMPLETE">MISSÄO COMPLETA!</String>
+	<String Name="MISSION_COOP_REPLAY_MSG">Repetir Missäo Co-op?</String>
+	<String Name="MISSION_COOP_REPLAY_PROMPT">REPETIR</String>
+	<String Name="MISSION_COOP_SKIP_PROMPT">PULAR</String>
+	<String Name="MISSION_COOP_START_MSG">Iniciar Missäo Co-Op?</String>
+	<String Name="MISSION_COOP_TITLE">MISSÄO CO-OP</String>
+	<String Name="MISSION_FAILED">MISSÄO FRACASSADA!</String>
+	<String Name="MISSION_HUD_TITLE">MISSÄO</String>
+	<String Name="MISSION_NAME_M01">QUANDO UM BOM ASSALTO SE SAI MAL</String>
+	<String Name="MISSION_NAME_M02">EU ESTOU LIVRE - EM QUEDA LIVRE</String>
+	<String Name="MISSION_NAME_M03">PRECISAREMOS DE ARMAS</String>
+	<String Name="MISSION_NAME_M04">STEELPORT, AQUI ESTOU EU</String>
+	<String Name="MISSION_NAME_M05">HORA DA FESTA</String>
+	<String Name="MISSION_NAME_M06">O PROBLEMA BELGA</String>
+	<String Name="MISSION_NAME_M07">RETORNO A STEELPORT</String>
+	<String Name="MISSION_NAME_M08">PUTAS TROIANAS</String>
+	<String Name="MISSION_NAME_M09">O BARCO DAS VADIAS</String>
+	<String Name="MISSION_NAME_M10">GANG BANG</String>
+	<String Name="MISSION_NAME_M11">COMBOIO ISCA</String>
+	<String Name="MISSION_NAME_M12">A VOLTA DE NYTE BLADE</String>
+	<String Name="MISSION_NAME_M13">FESTA DA STAG</String>
+	<String Name="MISSION_NAME_M14">AO VIVO COM KILLBANE</String>
+	<String Name="MISSION_NAME_M15">LIÇÖES DE INFORMÁTICA</String>
+	<String Name="MISSION_NAME_M16">HTTP://DECKERS.MORTE</String>
+	<String Name="MISSION_NAME_M17">MEU NOME É CYRUS TEMPLE</String>
+	<String Name="MISSION_NAME_M18">AIR STEELPORT</String>
+	<String Name="MISSION_NAME_M19">ATAQUE ZUMBI</String>
+	<String Name="MISSION_NAME_M20">UMA CHANCE REMOTA</String>
+	<String Name="MISSION_NAME_M21">BRIGA XXXI</String>
+	<String Name="MISSION_NAME_M22">TRÊS VIAS</String>
+	<String Name="MISSION_NAME_M23">FILME DA STAG</String>
+	<String Name="MISSION_NAME_M24">CRIMINOSOS NO ESPAÇO</String>
+	<String Name="MISSION_NAME_MM_A_01">FRAUDE NO SEGURO</String>
+	<String Name="MISSION_NAME_MM_A_02">RASTRO FLAMEJANTE</String>
+	<String Name="MISSION_NAME_MM_A_03">O OLHO DO TIGRE</String>
+	<String Name="MISSION_NAME_MM_A_04">ENFRENTE O SEU MEDO</String>
+	<String Name="MISSION_NAME_MM_A_05">NÄO TENTE, FAÇA</String>
+	<String Name="MISSION_NAME_MM_K_01">CYBER EM CHAMAS</String>
+	<String Name="MISSION_NAME_MM_K_02">ANJO DA GUARDA</String>
+	<String Name="MISSION_NAME_MM_K_03">MUTILAÇÄO</String>
+	<String Name="MISSION_NAME_MM_K_04">ASSALTO AÉREO</String>
+	<String Name="MISSION_NAME_MM_K_05">PHREAK FONE</String>
+	<String Name="MISSION_NAME_MM_K_06">NA MANHÄ SEGUINTE</String>
+	<String Name="MISSION_NAME_MM_M_16_5">O BLUES DE STILWATER</String>
+	<String Name="MISSION_NAME_MM_P_01">ANJO DA GUARDA</String>
+	<String Name="MISSION_NAME_MM_P_02">TRÁFICO DE DROGAS</String>
+	<String Name="MISSION_NAME_MM_P_03">TOME A CIDADE</String>
+	<String Name="MISSION_NAME_MM_P_04">CAOS DE TANQUE</String>
+	<String Name="MISSION_NAME_MM_P_05">PROFESSOR GENKI</String>
+	<String Name="MISSION_NAME_MM_P_06">ISSO É SÓ O COMEÇO</String>
+	<String Name="MISSION_NAME_MM_P_07">DE BAR EM BAR</String>
+	<String Name="MISSION_NAME_MM_Z_01">CAFETÄO</String>
+	<String Name="MISSION_NAME_MM_Z_02">TRÁFICO DE PUTAS</String>
+	<String Name="MISSION_NAME_MM_Z_03">ESCOLTA</String>
+	<String Name="MISSION_NAME_MM_Z_04">PINTANDO UMA IMAGEM</String>
+	<String Name="MISSION_NAME_MM_Z_05">TEMPOS MEMORÁVEIS</String>
+	<String Name="MISSION_NAME_SH01">AO POWDER</String>
+	<String Name="MISSION_NAME_SH02">CAFETÖES SIM, PUTAS NÄO</String>
+	<String Name="MISSION_NAME_SH03">PARE TODOS OS DOWNLOADS</String>
+	<String Name="MISSION_NAME_SH04">CONTA DE TRÊS</String>
+	<String Name="MISSION_PARTNER_BUSY">%ls ESTÁ OCUPADO</String>
+	<String Name="MISSION_PARTNER_CONNECTED">JOGADOR CO-OP CONECTADO</String>
+	<String Name="MISSION_PARTNER_DECLINED">%s REJEITADO</String>
+	<String Name="MISSION_PARTNER_DISCONNECTED">JOGADOR CO-OP DESCONECTADO</String>
+	<String Name="MISSION_PARTNER_REPSECT">%ls NÄO TEM RESPEITO SUFICIENTE</String>
+	<String Name="MISSION_UNLOCALIZED_STRING">Perigo! Linha näo localizada na rede!</String>
+	<String Name="MISSIONS_CURRENT">MISSÄO ATUAL</String>
+	<String Name="MM_A_01_obj_goto_if">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_A_01_obj_meet_angel">ENCONTRE ANGEL NO [format][color:location]ANGEL'S CASINO[/format]</String>
+	<String Name="MM_A_02_obj_goto_tb">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_A_03_obj_goto_es">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_A_04_obj_meet_angel">VÁ PARA O [format][color:location]ANGEL'S CASINO[/format]</String>
+	<String Name="MM_A_05_obj_meet_angel">VÁ PARA O [format][color:location]ANGEL'S CASINO[/format]</String>
+	<String Name="MM_K_01_obj_goto_tb">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_K_01_obj_meet_kinzie">VÁ PARA O [format][color:location]ESCONDERIJO DA KINZIE[/format]</String>
+	<String Name="MM_K_02_KINZIE_ABANDONDED">KINZIE FOI ABANDONADA!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="MM_K_02_KINZIE_DIED">KINZIE MORREU!</String>
+	<String Name="MM_K_02_obj_goto_ga">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_K_02_obj_goto_kinzie">VÁ PARA O [format][color:location]ESCONDERIJO DA KINZIE[/format]</String>
+	<String Name="MM_K_02_obj_goto_safe">!!Dirija-se até a [format][color:location]casa segura[/format]</String>
+	<String Name="MM_K_03_obj_goto_mh">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_K_04_obj_goto_ha">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_K_05_obj_meet_kinzie">VÁ AO [format][color:location]SMILING JACK'S[/format]</String>
+	<String Name="MM_K_06_obj_meet_kinzie">VÁ PARA O [format][color:location]ESCONDERIJO DA KINZIE[/format]</String>
+	<String Name="MM_Z_01_obj_goto_sn">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_Z_01_obj_meet_zimos">VÁ PARA A [format][color:location]CASA DO ZIMOS[/format]</String>
+	<String Name="MM_Z_02_obj_goto_dt">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_Z_03_obj_goto_es">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM_Z_04_obj_meet_zimos">VÁ PARA A [format][color:location]CASA DO ZIMOS[/format]</String>
+	<String Name="MM_Z_05_obj_meet_zimos">VÁ PARA A [format][color:location]CASA DO ZIMOS[/format]</String>
+	<String Name="MM01_OBJ_DROP_OFF">LEVE PIERCE AO [format][color:location]BANCO[/format]</String>
+	<String Name="MM01_OBJ_GOTO_GA">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM01_OBJ_MEET_PIERCE">ENCONTRE PIERCE NO [format][color:location]ALPENDRE[/format]</String>
+	<String Name="mm01_pierce_abandonded">PIERCE FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="mm01_pierce_died">PIERCE MORREU!</String>
+	<String Name="MM01_START_GA">INICIAR O ANJO DA GUARDA</String>
+	<String Name="MM02_OBJ_MEET_PIERCE">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM03_FAIL_FLASHPOINT">A OPERAÇÄO DA GANGUE FALHOU!
+ FIQUE PERTO DA OPERAÇÄO OU ELES VÄO FUGIR.</String>
+	<String Name="MM03_FAIL_PIERCE_ABANDONDED">PIERCE FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="MM03_FAIL_PIERCE_DIED">PIERCE MORREU!</String>
+	<String Name="MM03_NAG_FP">VOCÊ ESTÁ SAINDO DO [format][color:kill]PONTO CRÍTICO![/format]</String>
+	<String Name="MM03_OBJ_ACQUIRE_COLLECTIBLE">ADQUIRA A [format][color:location]BONECA SEXUAL[/format]</String>
+	<String Name="MM03_OBJ_CLEAR_NOTORIETY">[format][color:location]ESCONDA-SE[/format] PARA REDUZIR SUA MÁ REPUTAÇÄO</String>
+	<String Name="MM03_OBJ_COMPLETE_PHOTO_OP">COMPLETE A [format][color:location]OPORTUNIDADE DE FOTO[/format]</String>
+	<String Name="MM03_OBJ_GOTO_COLLECTIBLE">ENCONTRE A [format][color:location]BONECA SEXUAL[/format]</String>
+	<String Name="MM03_OBJ_GOTO_FP">VÁ PARA A [format][color:location]OPERAÇÄO DA GANGUE[/format]</String>
+	<String Name="MM03_OBJ_GOTO_PHOTO_OP">VÁ PARA O [format][color:location]LOCAL DA OPORTUNIDADE DE FOTO[/format]</String>
+	<String Name="MM03_OBJ_GOTO_PROPERTY">VA ATÉ O [format][color:location]ESTATES[/format]</String>
+	<String Name="MM03_OBJ_KILL_FP">ELIMINE A [format][color:kill]OPERAÇÄO DA GANGUE[/format]</String>
+	<String Name="MM03_OBJ_MEET_PIERCE">ENCONTRE PIERCE NO [format][color:location]Store Name TBD[/format]</String>
+	<String Name="MM03_OBJ_PURCHASE_PROPERTY">COMPRE [format][color:location]ESTATES[/format]</String>
+	<String Name="MM03_OBJ_PURCHASE_STORE">COMPRE O [format][color:location]FRIENDLY FIRE[/format]</String>
+	<String Name="MM04_OBJ_GOTO_TM">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM05_OBJ_GOTO_RM">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MM06_OBJ_MEET_PIERCE">ENCONTRE PIERCE NO [format][color:location]SMILING JACKS'[/format]</String>
+	<String Name="MM07_OBJ_MEET_PIERCE">ENCONTRE PIERCE NO [format][color:location]SMILING JACKS'[/format]</String>
+	<String Name="MSG_PLAY_DT">INICIAR TRÁFICO DE DROGAS</String>
+	<String Name="MSG_PLAY_ES">INICIAR ESCOLTA</String>
+	<String Name="MSG_PLAY_GA">INICIAR O ANJO DA GUARDA</String>
+	<String Name="MSG_PLAY_HA">INICIAR ASSALTO AÉREO</String>
+	<String Name="MSG_PLAY_IF">INICIAR FRAUDE NO SEGURO</String>
+	<String Name="MSG_PLAY_MH">INICIAR MUTILAÇÄO</String>
+	<String Name="MSG_PLAY_RM">INICIAR PROFESSOR GENKI</String>
+	<String Name="MSG_PLAY_SN">INICIAR ROUBO</String>
+	<String Name="MSG_PLAY_TB">INICIAR RASTRO FLAMEJANTE</String>
+	<String Name="MSG_PLAY_TM">INICIAR TANQUE DE MUTILAÇÄO</String>
+	<String Name="MSN_ACTIVITES_RESPECT_REPEAT">Atividades {MAP_IMG_UNKNOWN_ACT} däo Respeito. Veja o mapa para encontrar áreas de atividades.</String>
+	<String Name="MSN_ACTIVITES_RESPECT_REPEAT_GERMAN">Atividades {MAP_IMG_UNKNOWN_ACT} däo Respeito. Veja o mapa para encontrar áreas de atividades.</String>
+	<String Name="MSN_DECK_START">INICIAR MISSÄO DOS DECKERS</String>
+	<String Name="MSN_FAIL">Os policiais te pegaram!</String>
+	<String Name="MSN_LUCH_START">INICIAR MISSÄO DOS LUCHADORES</String>
+	<String Name="MSN_MAP_MESSAGE">Aperte START a qualquer hora para encontrar Atividades {MAP_IMG_UNKNOWN_ACT} no mapa.</String>
+	<String Name="MSN_MORN_START">INICIAR MISSÄO DOS MORNINGSTARS</String>
+	<String Name="MSN_OBJ_PRE_PHONE_CALL">VÁ PARA O [format][color:location]INÍCIO DA MISSÄO[/format]</String>
+	<String Name="MSN_PLAYER_ESCAPED">Um de vocês escapou com vida!</String>
+	<String Name="MSN_PRE_CALL_OBJ_M04">ENCONTRE [format][color:location]PIERCE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M05">VÁ PARA O [format][color:location]AEROPORTO[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M06">VÁ PARA O [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M08">VÁ PARA A [format][color:location]FESTA[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M09">VÁ PARA AS [format][color:location]DOCAS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M10">ENCONTRE [format][color:location]VIOLA[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M11">VÁ PARA O [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M12">VÁ PARA A [format][color:location]LOJA DE QUADRINHOS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M13">VÁ PARA O [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M14">VÁ AO [format][color:location]SMILING JACK'S[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M15">VÁ PARA O [format][color:location]ESCONDERIJO DA KINZIE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M16">VÁ PARA O [format][color:location]ESCONDERIJO DA KINZIE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M17">VÁ AO [format][color:location]IMAGE AS DESIGNED[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M18">VÁ PARA O [format][color:location]AEROPORTO[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M19">ENCONTRE O [format][color:location]PREFEITO[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M20">VÁ AO [format][color:location]BROKEN SHILLELAG[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M21">VÁ AO [format][color:location]MURDERBRAWL[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M22">VÁ PARA O [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_M23">VÁ AO [format][color:location]BROKEN SHILLELAG[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMA01">VÁ PARA O [format][color:location]ANGEL'S CASINO[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMA02">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMA03">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMA04">VÁ PARA O [format][color:location]ANGEL'S CASINO[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMK01">VÁ PARA O [format][color:location]ESCONDERIJO DA KINZIE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMK02">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMK03">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMK04">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMK05">VÁ PARA O [format][color:location]ESCONDERIJO DA KINZIE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMP01">VÁ PARA O [format][color:location]QG DOS SAINTS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMP02">ENCONTRE [format][color:location]PIERCE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMP03">ENCONTRE [format][color:location]PIERCE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMP04">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMP05">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMP06">VÁ AO [format][color:location]BROKEN SHILLELAG[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMZ01">VÁ PARA A [format][color:location]CASA DO ZIMOS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMZ02">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMZ03">VÁ PARA O [format][color:location]INÍCIO DA ATIVIDADE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_MMZ04">VÁ PARA A [format][color:location]CASA DO ZIMOS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_SH01">VÁ AO [format][color:location]POWDER[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_SH02">ENCONTRE [format][color:location]ZIMOS[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_SH03">VÁ PARA A [format][color:location]CASA DE KINZIE[/format]</String>
+	<String Name="MSN_PRE_CALL_OBJ_SH04">VÁ ATÉ [format][color:location]3 COUNT[/format]</String>
+	<String Name="MSN_PROTO_CONFIRM_ACTION">ACEITAR</String>
+	<String Name="MSN_PROTO_CONFIRM_DESC">Você escolheu {0} e {1}. Continuar com a seleçäo do protótipo?</String>
+	<String Name="MSN_PROTO_COOP_WAIT_ACTION">POR FAVOR AGUARDE</String>
+	<String Name="MSN_PROTO_COOP_WAIT_DESC">O host está escolhendo que protótipos construir.</String>
+	<String Name="MSN_PROTO_SELECT_BIKE_DESC">Protótipo de veículo de transporte e ataque de tamanho humano que utiliza a mesma tecnologia de flutuaçäo e conversäo do VTOL.</String>
+	<String Name="MSN_PROTO_SELECT_BIKE_TITLE">MOTO DA STAG</String>
+	<String Name="MSN_PROTO_SELECT_OPTION_1">ESCOLHA O PRIMEIRO PROTÓTIPO</String>
+	<String Name="MSN_PROTO_SELECT_OPTION_2">ESCOLHA O SEGUNDO PROTÓTIPO</String>
+	<String Name="MSN_PROTO_SELECT_OPTION_3">CONFIRMAR PROTÓTIPOS</String>
+	<String Name="MSN_PROTO_SELECT_SATCHEL_DESC">Protótipos de bombas por controle remoto equipadas com uma nano-propriedade adesiva especial que lhes permitem grudar em qualquer superfície que entre em contato com elas.</String>
+	<String Name="MSN_PROTO_SELECT_SATCHEL_TITLE">CARGAS PORTÁTEIS</String>
+	<String Name="MSN_PROTO_SELECT_TANK_DESC">Modelo atualizado do protótipo do tanque STAG. Dano extra, mais blindagem, mais matança.</String>
+	<String Name="MSN_PROTO_SELECT_TANK_TITLE">TANQUE STAG V2</String>
+	<String Name="MSN_PROTO_SELECT_TITLE">PROTÓTIPOS DA S.T.A.G</String>
+	<String Name="MSN_RESPECT_HELP_REPEAT">Ganhe respeito ao jogar Atividades {MAP_IMG_UNKNOWN_ACT} como um Cafetäo.  </String>
+	<String Name="MSN_STAG_START">INICIAR MISSÄO DA STAG</String>
+	<String Name="MSN_TSS_START">INICIAR MISSÄO 3RD STREET SAINTS</String>
+	<String Name="sh01_failure_abandon_pierce">PIERCE FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="sh01_failure_abandon_shaundi">SHAUNDI FOI ABANDONADA!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="sh01_failure_pierce_died">PIERCE MORREU!</String>
+	<String Name="sh01_failure_shaundi_died">SHAUNDI MORREU!</String>
+	<String Name="sh01_obj_clean_house">MATE OS [format][color:kill]GUARDAS[/format]</String>
+	<String Name="sh01_obj_enter_warehouse">ENTRE NO [format][color:location]ARMAZÉM[/format]</String>
+	<String Name="sh01_obj_kill_brute">MATE OS [format][color:kill]GORILAS[/format]</String>
+	<String Name="sh01_obj_manager_office">VÁ PARA O [format][color:location]ESCRITÓRIO DO GERENTE[/format]</String>
+	<String Name="sh01_obj_meet_pierce">VÁ ATÉ [format][color:location]POWDER[/format]</String>
+	<String Name="sh01_obj_showroom">VÁ ATÉ A [format][color:location]SALA DE EXPOSIÇÄO[/format]</String>
+	<String Name="sh01_obj_upstairs">ENCONTRE UM MODO DE [format][color:location]SUBIR[/format]</String>
+	<String Name="sh01_obj_use_computer">[format][color:use]HACKEANDO[/format]</String>
+	<String Name="SH01_TITLE">POWDER</String>
+	<String Name="sh02_failure_abandon_zimos">ZIMOS FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="sh02_failure_zimos_died">ZIMOS MORREU!</String>
+	<String Name="sh02_obj_basement">VÁ PARA O [format][color:location]CENTRO DE SEGURANÇA[/format]</String>
+	<String Name="sh02_obj_clean_house">ELIMINE TODOS OS [format][color:kill]MORNINGSTAR[/format]</String>
+	<String Name="sh02_obj_collection_room">VÁ PARA A [format][color:location]SALA DE COLETA[/format]</String>
+	<String Name="sh02_obj_free_hos">LIBERTE AS VADIAS</String>
+	<String Name="sh02_obj_garage">VÁ ATÉ A [format][color:location]GARAGEM[/format]</String>
+	<String Name="sh02_obj_get_vehicle">ENTRE NO [format][color:use]VEÍCULO[/format]</String>
+	<String Name="sh02_obj_kill_brute">MATE OS [format][color:kill]GORILAS[/format]</String>
+	<String Name="sh02_obj_meet_zimos">ENCONTRE [format][color:location]ZIMOS[/format]</String>
+	<String Name="sh02_obj_override_button">DESATIVE A [format][color:use]SEGURANÇA[/format]</String>
+	<String Name="sh02_obj_security">ULTRAPASSE A SEGURANÇA</String>
+	<String Name="SH03_CALL_CHOPPA">!!KINZIE: Vou chamar um amigo para conseguir apoio aéreo.</String>
+	<String Name="SH03_DIRECTIVE_ONE">[format][color:location]CONEXÄO[/format] HACKEADA</String>
+	<String Name="SH03_FAIL_CHAIR">Os Deckers destruíram a cadeira!</String>
+	<String Name="SH03_HACKING_TIME">HACKEANDO</String>
+	<String Name="SH03_KINZIE_ABANDONDED">Você abandonou Kinzie!</String>
+	<String Name="SH03_KINZIE_DIED">Kinzie morreu!</String>
+	<String Name="SH03_MSG_JUMP">SALTE DE PARAQUEDAS</String>
+	<String Name="SH03_MSG_ROUTERS_USE">DESLIGUE O [format][color:use]ROUTER[/format]</String>
+	<String Name="SH03_OBJ_CHOPPA">VÁ PARA O [format][color:location]PONTO DE ATERRISAGEM[/format]</String>
+	<String Name="SH03_OBJ_ENTER_HELI">ENTRE NO [format][color:location]HELICÓPTERO[/format]</String>
+	<String Name="SH03_OBJ_GO_DOWNSTAIRS">DESÇA AS [format][color:location]ESCADAS[/format]</String>
+	<String Name="SH03_OBJ_KILL_TARGETS">MATE OS [format][color:kill]GUARDAS DOS DECKERS[/format] RESTANTES</String>
+	<String Name="SH03_OBJ_PARA">SALTE DE PARAQUEDAS SOBRE A [format][color:location]CENTRAL NUCLEAR[/format]</String>
+	<String Name="SH03_OBJ_SURVIVE">ESPERE O HELICÓPTERO</String>
+	<String Name="SH03_PROTECT_KINZIE">DEFENDA [format][color:defend]KINZIE[/format] </String>
+	<String Name="SH03_START_MESSAGE">VÁ PARA A [format][color:location]CENTRAL NUCLEAR[/format]</String>
+	<String Name="SH03_TURN_OFF_FINAL">DESLIGUE O ÚLTIMO [format][color:use]ROUTER[/format]</String>
+	<String Name="SH03_TURN_OFF_ROUTERS">[format][color:use]ROUTERS[/format] DESATIVADOS:</String>
+	<String Name="SH04_DAMAGE">DESTRUA OS SLOTS</String>
+	<String Name="SH04_FAILURE_ANGEL_ABANDONDED">ANGEL FOI ABANDONADO!
+OS SAINTS DEVEM PERMANECER UNIDOS!</String>
+	<String Name="sh04_failure_angel_died">ANGEL MORREU!</String>
+	<String Name="sh04_failure_left_casino">VOCÊ SAIU DO CASSINO SEM TERMINAR O SERVIÇO!</String>
+	<String Name="SH04_GET_BACK_TO_THE_CASINO">VOLTE AO [format][color:location]CASSINO[/format]</String>
+	<String Name="SH04_MSG_GRAB">INTERROGUE O [format][color:use]GERENTE[/format]</String>
+	<String Name="SH04_OBJ_BRUTES">MATE OS [format][color:kill]GORILAS[/format]</String>
+	<String Name="SH04_OBJ_DESTROY_LUCHADORES">MATE O RESTANTE DOS [format][color:kill]LUCHADORES[/format]</String>
+	<String Name="SH04_OBJ_DESTROY_STATUES">[format][color:kill]ESTÁTUAS[/format] DESTRUÍDAS</String>
+	<String Name="SH04_OBJ_FIND_THE_VAULT">ENCONTRE O [format][color:location]COFRE[/format]</String>
+	<String Name="SH04_OBJ_MGR">INTERROGUE O [format][color:use]GERENTE[/format]</String>
+	<String Name="SR3_MISSION_DEBUG_OBJECTIVE">[format][color:red]NÄO LOCALIZADO: [color:teal]%s [color:red](!!!)[/format]</String>
+	<String Name="STRONGHOLD_HUD_TITLE">FORTALEZA</String>
+	<String Name="STRONGHOLD_START_MESSAGE_DECK">INICIAR A FORTALEZA DOS DECKERS</String>
+	<String Name="STRONGHOLD_START_MESSAGE_LUCH">INICIAR FORTALEZA DOS LUCHADORES</String>
+	<String Name="STRONGHOLD_START_MESSAGE_MORN">INICIAR FORTALEZA DOS MORNINGSTAR</String>
+	<String Name="STRONGHOLD_START_MESSAGE_STAG">INICIAR FORTALEZA DA STAG</String>
+</Strings>

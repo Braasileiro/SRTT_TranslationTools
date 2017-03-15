@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Strings Language="English" Game="SaintsRowTheThird">
+	<String Name="ANALOG_LS_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_ls][/format]</String>
+	<String Name="ANALOG_RS_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_rs][/format]</String>
+	<String Name="BTN_A_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_a][/format]</String>
+	<String Name="BTN_A_TXT">THE A BUTTON</String>
+	<String Name="BTN_B_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_b][/format]</String>
+	<String Name="BTN_B_TXT">THE A BUTTON</String>
+	<String Name="BTN_BACK_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_back][/format]</String>
+	<String Name="BTN_BACK_TXT">THE A BUTTON</String>
+	<String Name="BTN_BLACK_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_rb][/format]</String>
+	<String Name="BTN_BLACK_TXT">THE A BUTTON</String>
+	<String Name="BTN_LTHUMB_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_ls][/format]</String>
+	<String Name="BTN_LTHUMB_TXT">LEFT STICK</String>
+	<String Name="BTN_LTRIGGER_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_lt][/format]</String>
+	<String Name="BTN_LTRIGGER_TXT">THE A BUTTON</String>
+	<String Name="BTN_RTHUMB_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_rs][/format]</String>
+	<String Name="BTN_RTHUMB_TXT">RIGHT STICK</String>
+	<String Name="BTN_RTRIGGER_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_rt][/format]</String>
+	<String Name="BTN_RTRIGGER_TXT">THE A BUTTON</String>
+	<String Name="BTN_START_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_start][/format]</String>
+	<String Name="BTN_START_TXT">THE A BUTTON</String>
+	<String Name="BTN_WHITE_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_lb][/format]</String>
+	<String Name="BTN_WHITE_TXT">THE A BUTTON</String>
+	<String Name="BTN_X_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_x][/format]</String>
+	<String Name="BTN_X_TXT">THE A BUTTON</String>
+	<String Name="BTN_Y_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_btn_y][/format]</String>
+	<String Name="BTN_Y_TXT">THE A BUTTON</String>
+	<String Name="CELL_CHEAT_ACTIVIATE_DIALOG_BODY">[format][color:#edc300FF]{0}[/format]
+{1}Using cheats prevents you from earning achievements and autosaves are disabled. 
+
+Would you still like to activate this cheat?</String>
+	<String Name="COMMUNITY_BLURB_HEADER">Join the Saints Row Community at SaintsRow.com</String>
+	<String Name="COMMUNITY_CREATE_LINK_TEXT">Here you can create a new THQ ID or link your gamer profile to an existing one.</String>
+	<String Name="COMMUNITY_ERROR_PLATFORM_ID_IN_USE">The Gamertag you're using is already linked to a THQ ID.</String>
+	<String Name="COMMUNITY_ERROR_PLATFORM_ID_MISMATCH">The Gamertag you're using is linked to a different THQ ID.</String>
+	<String Name="COMMUNITY_ERROR_PLATFORM_ID_NOT_LINKED">Your gamertag is not linked with a THQ ID.</String>
+	<String Name="COMMUNITY_EXISTING_FOUND_TEXT">We found a THQ ID associated with your Gamertag. Please login to your existing account.</String>
+	<String Name="COMMUNITY_SITE_BLURB">Upload your first character to earn an achievement.
+
+Browse characters online and play with them in game.
+
+Participate in challenges to earn in-game content.
+
+Track community activity on the real-time community map and view your own personalized map.
+
+Receive community-only deals on Saints Row merchandise and game content.</String>
+	<String Name="COMMUNITY_SUCCESS_LINK_EXT">Your current gamer profile was successfully linked to your THQ ID.</String>
+	<String Name="CONTROL_L_STICK">LEFT STICK</String>
+	<String Name="CONTROL_R_STICK">RIGHT STICK</String>
+	<String Name="COOP_JOIN_CHEAT">Your co-op partner is using cheats. Any new save games created will have cheats enabled.
+Autosaving has been disabled and you will not be able to earn any more achievements.</String>
+	<String Name="COOP_REMOTE_CHEAT_STARTING">Your co-op partner is using cheats. Any new save games created will have cheats enabled.
+Autosaving has been disabled and you will not be able to earn any more achievements.</String>
+	<String Name="CTRL_DISCONNECT_TITLE">CONTROLLER DISCONNECTED</String>
+	<String Name="DPAD_DOWN_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_dpad_d][/format]</String>
+	<String Name="DPAD_DOWN_TXT">THE A BUTTON</String>
+	<String Name="DPAD_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_dpad_n][/format]</String>
+	<String Name="DPAD_LEFT_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_dpad_l][/format]</String>
+	<String Name="DPAD_LEFT_TXT">THE A BUTTON</String>
+	<String Name="DPAD_LR_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_dpad_lr][/format]</String>
+	<String Name="DPAD_LR_TXT">THE D-PAD LEFT &amp; RIGHT</String>
+	<String Name="DPAD_RIGHT_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_dpad_r][/format]</String>
+	<String Name="DPAD_RIGHT_TXT">THE A BUTTON</String>
+	<String Name="DPAD_TXT">THE D-PAD</String>
+	<String Name="DPAD_UP_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_360_dpad_u][/format]</String>
+	<String Name="DPAD_UP_TXT">THE A BUTTON</String>
+	<String Name="GAME_PROFILE_SAVING">Saving Gamer profile. Please do not turn off your console or remove your storage device.</String>
+	<String Name="HUD_DROP_ITEM_MESSAGE">DROP %ls</String>
+	<String Name="HUD_DUAL_WIELD_MESSAGE">DUAL WIELD %ls</String>
+	<String Name="HUD_HOLD_DPADUP_PARTY_DISMISS">DISMISS PARTY</String>
+	<String Name="HUD_PICK_UP_MESSAGE">PICK UP %ls</String>
+	<String Name="HUD_PICKUP_HAVOK_WEAPON_MESSAGE">PICK UP %ls</String>
+	<String Name="HUD_PICKUP_UNNAMED_OBJECT">PICK UP</String>
+	<String Name="HUD_REPLACE_BLANK_WITH_BLANK_MESSAGE">SWAP %ls WITH %ls</String>
+	<String Name="MAIN_MENU_MATCHMAKING_FAIL">Quick Match was unable to find any connectable games.</String>
+	<String Name="MAIN_MENU_PRIVILEGE_DENIED">This gamer profile is unable to play on Xbox LIVE. Please check your Family Settings or obtain an Xbox LIVE Gold Membership.</String>
+	<String Name="MAINMENU_DISCONNECTED_FROM_SERVICE">You have been disconnected from Xbox LIVE.</String>
+	<String Name="MAINMENU_LOGIN_CHANGE_EXPOSITION">A sign-in change has occurred. You have been returned to the title screen.</String>
+	<String Name="MAINMENU_NEW_GAME_NO_PROFILE_LOG_IN_NOW">You must be signed in with a gamer profile to save your game and earn achievements.
+Would you like to sign in?</String>
+	<String Name="MAINMENU_ONLINE_GAME">XBOX LIVE</String>
+	<String Name="MAINMENU_SYSLINK">SYSTEM LINK</String>
+	<String Name="MAINMENU_SYSLINK_TITLE">SYSTEM LINK</String>
+	<String Name="MENU_CONTROLS_STICK">LEFT STICK ACCEL/BRAKE</String>
+	<String Name="MENU_XBOX_PARTY_INVITE">SEND XBOX LIVE PARTY INVITE</String>
+	<String Name="MENU_XBOX_PARTY_JOIN">JOIN XBOX LIVE PARTY GAME</String>
+	<String Name="MP_NO_MULT_PLAYERS">Multiple players per console is not supported.</String>
+	<String Name="MULTI_GAMETYPE_1">SYSTEM LINK</String>
+	<String Name="MULTI_LOBBY_TITLE_SYSLINK">SYSTEM LINK LOBBY</String>
+	<String Name="MULTI_LOST_CONNECTION">Connection to Xbox LIVE lost.
+Returning to Title Screen.</String>
+	<String Name="MULTI_MATCHMAKING">QUICK MATCH</String>
+	<String Name="MULTI_MENU_SYSLINK">SYSTEM LINK</String>
+	<String Name="MULTI_MENU_SYSLINK_SEARCHING_TEXT">Searching for System Link games...</String>
+	<String Name="MULTI_MENU_SYSLINK_SIGN_IN_FULL">You must be signed in to a gamer profile
+to use System Link.</String>
+	<String Name="MUST_LOG_IN_CONFIRM">You must be signed in to Xbox LIVE to use this feature.
+Sign in?</String>
+	<String Name="MUST_SIGN_IN_PROFILE_CONFIRM">You are not currently signed in with a gamer profile.
+Sign in?</String>
+	<String Name="NOT_LOGGED_IN">You must be signed in to Xbox LIVE to use this feature.</String>
+	<String Name="OPT_CONTROL_OVERRIDE_FEEDBACK_TEXT">You must enable the vibration option in the Personal Settings of your gamer profile.</String>
+	<String Name="PLT_MENU_VIEW_GAMERCARD">VIEW GAMER CARD</String>
+	<String Name="PLT_MENU_VIEW_PARTNER_GAMERCARD">VIEW PLAYER GAMER CARD</String>
+	<String Name="PLT_PRESS_START">PRESS START</String>
+	<String Name="SAVE_WARNING_BOOT">When the following appears
+do not turn off your console or remove your storage device.</String>
+	<String Name="SAVELOAD_CANNOT_SAVE_TO_FULL_DEVICE">The current device is full.
+Please select a different device to save.</String>
+	<String Name="SAVELOAD_IMPORT_LOADING">Importing content.
+Please don't turn off your console.</String>
+	<String Name="SAVELOAD_LOADING_MESSAGE_EXPOSITION">Loading content. Please don't turn off your console.</String>
+	<String Name="SAVELOAD_LOG_IN_CONFIRM_EXPOSITION">You will lose all progress if you sign in with a gamer profile.</String>
+	<String Name="SAVELOAD_SAVE_DEVICE_UNAVAILABLE_FULL">The Save Process has failed because the default
+Storage Device is no longer available.</String>
+	<String Name="SAVELOAD_SAVE_GAME_DEVICE_FULL_EXPOSITION">There is not enough free space on the default Storage Device
+to complete the Save process.</String>
+	<String Name="SAVELOAD_SAVING_MESSAGE_EXPOSITION">Saving content. Please don't turn off your console.</String>
+	<String Name="SAVING_CONTENT_BODY">Please do not turn off your console or remove your storage device.</String>
+	<String Name="SAVING_CONTENT_TITLE">Saving content.</String>
+	<String Name="SIGN_IN_AUTOSAVE_PROMPT">This game uses an auto save feature. In order to save, you must be signed into a gamer profile.</String>
+	<String Name="STATS_CORRUPT_BODY">Your stats were damaged and must be reset.
+This will not affect any Achievements you may have earned.</String>
+	<String Name="STATS_CORRUPT_TITLE">DAMAGED GAMER PROFILE STATS</String>
+	<String Name="USER_CONTENT_PRIV_DENIED">The gamer profile does not have permission to access Member Content. Please check your Family Settings</String>
+	<String Name="XBOX_NOT_SIGNED_IN">NOT SIGNED IN</String>
+</Strings>

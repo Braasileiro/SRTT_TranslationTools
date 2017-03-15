@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Strings Language="English" Game="SaintsRowTheThird">
+	<String Name="ANALOG_LS_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_l][/format]</String>
+	<String Name="ANALOG_RS_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_r][/format]</String>
+	<String Name="BTN_A_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_cross][/format]</String>
+	<String Name="BTN_A_TXT">THE A BUTTON</String>
+	<String Name="BTN_B_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_circle][/format]</String>
+	<String Name="BTN_B_TXT">THE A BUTTON</String>
+	<String Name="BTN_BACK_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_select][/format]</String>
+	<String Name="BTN_BACK_TXT">THE A BUTTON</String>
+	<String Name="BTN_BLACK_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_r1][/format]</String>
+	<String Name="BTN_BLACK_TXT">THE A BUTTON</String>
+	<String Name="BTN_LTHUMB_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_l3][/format]</String>
+	<String Name="BTN_LTHUMB_TXT">THE A BUTTON</String>
+	<String Name="BTN_LTRIGGER_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_l2][/format]</String>
+	<String Name="BTN_LTRIGGER_TXT">THE A BUTTON</String>
+	<String Name="BTN_RTHUMB_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_r3][/format]</String>
+	<String Name="BTN_RTHUMB_TXT">THE A BUTTON</String>
+	<String Name="BTN_RTRIGGER_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_r2][/format]</String>
+	<String Name="BTN_RTRIGGER_TXT">THE A BUTTON</String>
+	<String Name="BTN_START_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_start][/format]</String>
+	<String Name="BTN_START_TXT">THE A BUTTON</String>
+	<String Name="BTN_WHITE_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_l1][/format]</String>
+	<String Name="BTN_WHITE_TXT">THE A BUTTON</String>
+	<String Name="BTN_X_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_square][/format]</String>
+	<String Name="BTN_X_TXT">THE A BUTTON</String>
+	<String Name="BTN_Y_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_btn_triangle][/format]</String>
+	<String Name="BTN_Y_TXT">THE A BUTTON</String>
+	<String Name="CELL_CHEAT_ACTIVIATE_DIALOG_BODY">[format][color:#edc300FF]{0}[/format]
+{1}Using cheats prevents you from earning trophies and autosaves are disabled. 
+
+Would you still like to activate this cheat?</String>
+	<String Name="CHAT_DISABLED">Online chat features have been disabled due to your account's parental control restrictions.</String>
+	<String Name="COMMUNITY_BLURB_HEADER">Join the Saints Row Community at SaintsRow.com</String>
+	<String Name="COMMUNITY_CREATE_LINK_TEXT">Here you can create a new THQ ID or link your Online ID to an existing one.</String>
+	<String Name="COMMUNITY_ERROR_PLATFORM_ID_IN_USE">The PlayStation[image:registered]Network account you're using is already linked to a THQ ID.</String>
+	<String Name="COMMUNITY_ERROR_PLATFORM_ID_MISMATCH">The PlayStation[image:registered]Network account you're using is linked to a different THQ ID.</String>
+	<String Name="COMMUNITY_ERROR_PLATFORM_ID_NOT_LINKED">Your PlayStation[image:registered]Network account is not linked with a THQ ID.</String>
+	<String Name="COMMUNITY_EXISTING_FOUND_TEXT">We found a THQ ID associated with your Online ID. Please login to your existing account.</String>
+	<String Name="COMMUNITY_SITE_BLURB">Upload your first character to earn a trophy.
+
+Browse characters online and play with them in game.
+
+Participate in challenges to earn in-game content.
+
+Track community activity on the real-time community map and view your own personalized map.
+
+Receive community-only deals on Saints Row merchandise and game content.</String>
+	<String Name="COMMUNITY_SUCCESS_LINK_EXT">Your current Online ID was successfully linked to your THQ ID.</String>
+	<String Name="CONTROL_L_STICK">LEFT STICK</String>
+	<String Name="CONTROL_R_STICK">RIGHT STICK</String>
+	<String Name="COOP_JOIN_CHEAT">Your co-op partner is using cheats. Any new save games created will have cheats enabled.
+Autosaving has been disabled and you will not be able to earn any more trophies.</String>
+	<String Name="COOP_REMOTE_CHEAT_STARTING">Your co-op partner is using cheats. Any new save games created will have cheats enabled.
+Autosaving has been disabled and you will not be able to earn any more trophies.</String>
+	<String Name="CTRL_DISCONNECT_TITLE">CONTROLLER DISCONNECTED</String>
+	<String Name="DPAD_DOWN_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_dpad_d][/format]</String>
+	<String Name="DPAD_DOWN_TXT">THE A BUTTON</String>
+	<String Name="DPAD_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_dpad_n][/format]</String>
+	<String Name="DPAD_LEFT_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_dpad_l][/format]</String>
+	<String Name="DPAD_LEFT_TXT">THE A BUTTON</String>
+	<String Name="DPAD_LR_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_dpad_lr][/format]</String>
+	<String Name="DPAD_LR_TXT">THE D-PAD LEFT &amp; RIGHT</String>
+	<String Name="DPAD_RIGHT_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_dpad_r][/format]</String>
+	<String Name="DPAD_RIGHT_TXT">THE A BUTTON</String>
+	<String Name="DPAD_TXT">THE D-PAD</String>
+	<String Name="DPAD_UP_IMG">[format][scale:0.9][color:full_bright][image:ui_ctrl_ps3_dpad_u][/format]</String>
+	<String Name="DPAD_UP_TXT">THE A BUTTON</String>
+	<String Name="GAME_PROFILE_SAVING">Saving Profile. Please do not turn off your system.</String>
+	<String Name="HUD_DROP_ITEM_MESSAGE">DROP %ls</String>
+	<String Name="HUD_DUAL_WIELD_MESSAGE">DUAL WIELD %ls</String>
+	<String Name="HUD_HOLD_DPADUP_PARTY_DISMISS">DISMISS PARTY</String>
+	<String Name="HUD_PICK_UP_MESSAGE">PICK UP  %ls</String>
+	<String Name="HUD_PICKUP_HAVOK_WEAPON_MESSAGE">PICK UP %ls</String>
+	<String Name="HUD_PICKUP_UNNAMED_OBJECT">PICK UP</String>
+	<String Name="HUD_REPLACE_BLANK_WITH_BLANK_DUAL_WIELD_MESSAGE">SWAP DUAL WIELD %ls WITH DUAL WIELD %ls</String>
+	<String Name="HUD_REPLACE_BLANK_WITH_BLANK_MESSAGE">SWAP %ls WITH %ls</String>
+	<String Name="MAIN_MENU_MATCHMAKING_FAIL">Matchmaking was unable to find any connectable games.</String>
+	<String Name="MAIN_MENU_PRIVILEGE_DENIED">Online service is disabled on your account due to parental control restrictions.</String>
+	<String Name="MAINMENU_DISCONNECTED_FROM_SERVICE">You have been disconnected from Online.</String>
+	<String Name="MAINMENU_LOGIN_CHANGE_EXPOSITION">A sign-in change has occurred. You have been returned to the title screen.</String>
+	<String Name="MAINMENU_NEW_GAME_NO_PROFILE_LOG_IN_NOW">You are not currently signed in with a profile.
+Would you like to sign in?</String>
+	<String Name="MAINMENU_NEW_GAME_NO_SPACE_EXPOSITION">The HDD does not have the %dKB of space available needed for a new save.
+If you continue you will not be allowed to save a new game.
+Continue?</String>
+	<String Name="MAINMENU_ONLINE_GAME">ONLINE</String>
+	<String Name="MAINMENU_SYSLINK">LAN PLAY</String>
+	<String Name="MAINMENU_SYSLINK_TITLE">LAN</String>
+	<String Name="MENU_CONTROLS_STICK">LEFT STICK ACCEL/BRAKE</String>
+	<String Name="MP_NO_MULT_PLAYERS">Multiple players per system is not supported.</String>
+	<String Name="MPPreGame">IN MULTIPLAYER PRE-GAME LOBBY</String>
+	<String Name="MULTI_GAMETYPE_1">LAN PLAY</String>
+	<String Name="MULTI_LOBBY_TITLE_SYSLINK">LAN PARTY LOBBY</String>
+	<String Name="MULTI_LOST_CONNECTION">A network error has occurred.
+Returning to the Main Menu.</String>
+	<String Name="MULTI_MATCHMAKING">MATCHMAKING</String>
+	<String Name="MULTI_MENU_SYSLINK">LAN PLAY</String>
+	<String Name="MULTI_MENU_SYSLINK_SEARCHING_TEXT">SEARCHING FOR LAN PARTY GAMES...</String>
+	<String Name="MULTI_MENU_SYSLINK_SIGN_IN_FULL">You must be signed in to a profile
+to use LAN play.</String>
+	<String Name="MUST_LOG_IN_CONFIRM">You must be signed in to the PlayStation[image:registered]Network to access this feature. Sign in now?</String>
+	<String Name="NOT_LOGGED_IN">You must be signed in to the PlayStation[image:registered]Network to access this feature.</String>
+	<String Name="OPT_CONTROL_OVERRIDE_FEEDBACK_TEXT">You must enable the vibration option in the Personal Settings of your profile.</String>
+	<String Name="PLT_MENU_VIEW_GAMERCARD">VIEW PLAYER PROFILE</String>
+	<String Name="PLT_MENU_VIEW_PARTNER_GAMERCARD">VIEW PLAYER PROFILE</String>
+	<String Name="PLT_PRESENCE_BASICSP">Playing %ls</String>
+	<String Name="PLT_PRESENCE_COOP">Co-op</String>
+	<String Name="PLT_PRESENCE_IN_MAIN_MENU">In Main Menu</String>
+	<String Name="PLT_PRESENCE_SINGLE_PLAYER">Single Player</String>
+	<String Name="PLT_PRESENCE_SPACTIVITY">Playing %ls,
+Activity: %ls</String>
+	<String Name="PLT_PRESENCE_SPMISSION">Playing %ls,
+Mission: %ls</String>
+	<String Name="PLT_PRESENCE_SPSTRONGHOLD">Playing %ls,
+Stronghold: %ls</String>
+	<String Name="PLT_PRESENCE_WHOREDMODE_GAMEPLAY">Playing %ls,
+Whored Mode: %ls</String>
+	<String Name="PLT_PRESENCE_WHOREDMODE_MENU">Playing %ls,
+Whored Mode</String>
+	<String Name="PLT_PRESS_START">PRESS [format][scale:1.4][image:ui_ctrl_ps3_btn_start][/format]</String>
+	<String Name="PS3_AUTOSAVE_WARNING">Saints Row automatically saves your user profile
+throughout game play and after saving.
+Please do not switch off the power
+when the HDD access indicator is flashing.</String>
+	<String Name="PS3_BAD_PROFILE">Your User Profile has been corrupted.
+Please wait while the corrupt files are rewritten.</String>
+	<String Name="PS3_CACHE_WARNING">Don't turn off the system while caching.
+If you do, your PS3 may explode.
+Think Vinegar Volcano in an eight grade science fair...</String>
+	<String Name="PS3_DISC_ERROR">Game disc error.  Check game disc and restart.
+Error: 0x%08x</String>
+	<String Name="PS3_DISK_EJECT">Please reinsert the Saints Row Disc.</String>
+	<String Name="PS3_FREE_HDD_SPACE">There is not enough available space in the HDD.
+To create data, at least %d MB more space is required.
+Exit the game and obtain the necessary space.</String>
+	<String Name="PS3_FRIEND_IN_WHORED_MODE">Whored Mode</String>
+	<String Name="PS3_HDD_ERROR">Game data is corrupt. Please exit the game and delete this game data.
+Error : 0x%08x</String>
+	<String Name="PS3_HDD_WARNING">This game saves data automatically at certain points.
+Do not switch power off when the HDD access indicator is flashing.</String>
+	<String Name="PS3_INVITE_TEXT">You have been invited to a game.</String>
+	<String Name="PS3_INVITE_TEXT_CONFIRM">%s has invited you to a game.
+Press {PAUSE_MENU_IMG} to accept.</String>
+	<String Name="PS3_NO_SPACE_MANAGE_MEMORY">MANAGE SAVE DATA</String>
+	<String Name="PS3_NO_SPACE_START_ANYWAY">CONTINUE WITHOUT SAVING</String>
+	<String Name="PS3_NO_SPACE_TO_AUTOSAVE">Your HDD is out of space for save games. If you continue without managing your system memory you will be unable to save a new game.</String>
+	<String Name="PS3_NO_SPACE_TO_SAVE_NEW_GAME">INSUFFICIENT SPACE ON HDD TO SAVE A NEW GAME</String>
+	<String Name="PS3_SAVE_SELECTION_MANAGE_MEMORY">MANAGE SAVE DATA</String>
+	<String Name="SAVE_WARNING_BOOT">When the following appears
+do not turn off your system.</String>
+	<String Name="SAVELOAD_CANNOT_SAVE_TO_FULL_DEVICE">The current device is full.
+Please delete content to make space available.</String>
+	<String Name="SAVELOAD_FILE_NOT_OWNED">Unable to load data by another user.  You must start a new game or load a different saved game.</String>
+	<String Name="SAVELOAD_IMPORT_LOADING">Importing content.
+Please don't turn off your system.</String>
+	<String Name="SAVELOAD_LOADING_MESSAGE_EXPOSITION">Loading content.
+Please don't turn off your system.</String>
+	<String Name="SAVELOAD_LOG_IN_CONFIRM_EXPOSITION">You will lose all progress if you sign in with a profile.</String>
+	<String Name="SAVELOAD_SAVE_DEVICE_UNAVAILABLE_FULL">The Save Process has failed because the default
+HDD is no longer available.</String>
+	<String Name="SAVELOAD_SAVE_GAME_DEVICE_FULL_EXPOSITION">There is not enough free space on the HDD to complete the Save process.</String>
+	<String Name="SAVELOAD_SAVING_MESSAGE_EXPOSITION">Saving content.
+Please don't turn off your system.</String>
+	<String Name="SAVING_CONTENT_BODY">Please do not turn off your system.</String>
+	<String Name="SAVING_CONTENT_TITLE">Saving content.</String>
+	<String Name="SIGN_IN_AUTOSAVE_PROMPT">This game uses an auto save feature. In order to save, you must be signed into a profile.</String>
+	<String Name="START_GAME_OUT_OF_SAVE_SLOTS_TEXT">You are out of save slots.  In order to save you will need to save over a previous save slot .</String>
+	<String Name="STATS_CORRUPT_BODY">Your stats were damaged and must be reset.</String>
+	<String Name="STATS_CORRUPT_TITLE">DAMAGED PROFILE STATS</String>
+	<String Name="SYSTEM_LOGGING_IN">Signing In, Please Wait...</String>
+	<String Name="SYSTEM_LOGIN">SIGN IN</String>
+	<String Name="SYSTEM_LOGIN_ERROR">The system could not sign you in.</String>
+	<String Name="TUT_TITLE_PS3_SIXAXIS">[color:yellow]MOTION SENSOR CONTROL</String>
+	<String Name="USER_CONTENT_PRIV_DENIED">Unable to access this content due to parental control restrictions on your account</String>
+</Strings>

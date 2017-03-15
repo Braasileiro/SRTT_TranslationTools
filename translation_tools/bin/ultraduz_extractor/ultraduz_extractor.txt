@@ -1,0 +1,50 @@
+Ferramenta de textos para Saints Row
+1.0
+
+Jogos:
+ - Saints Row*
+ - Saints Row 2
+ - Saints Row: The Third
+
+*Ainda não testado
+
+Como utilizar:
+
+ - Para extrair os textos de um arquivo le_strings, coloque o arquivo na mesma pasta da ferramenta e use:
+
+ferramenta.exe -E <nome do arquivo le_strings original>
+
+Lembrando que os espaços do nome devem ser substítuidos por %20
+Será criado na mesma pasta um arquivo contendo os textos
+
+ - Para compactar os textos, coloque o arquivo le_strings original e o arquivo dos textos na mesma pasta da ferramenta e use:
+
+ferramenta.exe -C <nome do arquivo com os textos> <nome do arquivo le_strings original>
+
+Lembrando que os espaços dos nomes devem ser substituídos por %20
+O novo arquivo le_strings será criado sobre o arquivo le_strings original
+
+Observações:
+
+Os exemplos acima devem ser executados em um arquivo .bat na mesma pasta da ferramenta
+Sempre possua um backup dos arquivos originais antes de modificá-los
+Você pode utilizar o comando -Q nos argumentos para executar o programa em modo silencioso
+Se ao compactar o texto, ocorrer algum erro, leia as recomendações abaixo
+
+Recomendações para o arquivo contendo os textos:
+
+Não adicione nenhuma nova linha
+Não adicione nenhuma nova tabulação
+Não modifique os dados antes do texto (ou ID da linha)
+
+Caso deseje informar erros e bugs do aplicativo, contate o autor através do site http://www.ultraduz.com.br/usuario/1/evandro.html.
+
+Termos de uso:
+
+Utilizando este software você concorda automaticamente com os termos abaixo descritos:
+
+ - Para fazer a distribuição do aplicativo você não pode remover e/ou modificar os créditos do autor, do site http://www.ultraduz.com.br/ e também este material;
+ - Caso distribua esta ferramenta ou produtos originários de sua função em algum site, você deve publicar um link funcional para o website http://www.ultraduz.com.br/;
+ - O aplicativo é freeware, não pode ser cobrado nada por ele;
+ - O autor e o site http://www.ultraduz.com.br/ não se responsabilizam por qualquer dano causado ou motivado pelo uso deste software;
+ - O software é fornecido COMO É e SEM GARANTIA. O autor e o site http://www.ultraduz.com.br/ não se comprometem em oferecer suporte técnico.

@@ -16,6 +16,7 @@ REM BUILD_LOCALE
 
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.BuildStrings.exe        "locale\dlc1.vpp_pc\dlc1_us.xml"                    "output\dlc1.vpp_pc\dlc1_us.le_strings"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.BuildStrings.exe        "locale\dlc2.vpp_pc\dlc2_us.xml"                    "output\dlc2.vpp_pc\dlc2_us.le_strings"
+    bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.BuildStrings.exe        "locale\dlc3.vpp_pc\dlc3_us.xml"                    "output\dlc3.vpp_pc\dlc3_us.le_strings"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.BuildStrings.exe        "locale\misc.vpp_pc\activity_us.xml"                "output\misc.vpp_pc\activity_us.le_strings"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.BuildStrings.exe        "locale\misc.vpp_pc\customize_us.xml"               "output\misc.vpp_pc\customize_us.le_strings"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.BuildStrings.exe        "locale\misc.vpp_pc\diversion_us.xml"               "output\misc.vpp_pc\diversion_us.le_strings"

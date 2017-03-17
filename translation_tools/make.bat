@@ -18,6 +18,7 @@ REM CLEAR_CACHE
     MKDIR locale
     MKDIR locale\dlc1.vpp_pc
     MKDIR locale\dlc2.vpp_pc
+    MKDIR locale\dlc3.vpp_pc
     MKDIR locale\misc.vpp_pc
 REM PATH_CREATE
 
@@ -27,6 +28,7 @@ REM EXTRACT_BASE_LOCALE
 
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.ExtractStrings.exe 		srtt 		"base\dlc1.vpp_pc\dlc1_us.le_strings" 					"locale\dlc1.vpp_pc\dlc1_us.xml"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.ExtractStrings.exe 		srtt 		"base\dlc2.vpp_pc\dlc2_us.le_strings" 					"locale\dlc2.vpp_pc\dlc2_us.xml"
+    bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.ExtractStrings.exe 		srtt 		"base\dlc3.vpp_pc\dlc3_us.le_strings" 					"locale\dlc3.vpp_pc\dlc3_us.xml"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.ExtractStrings.exe 		srtt 		"base\misc.vpp_pc\activity_us.le_strings" 				"locale\misc.vpp_pc\activity_us.xml"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.ExtractStrings.exe 		srtt 		"base\misc.vpp_pc\customize_us.le_strings" 				"locale\misc.vpp_pc\customize_us.xml"
     bin\ThomasJepp.SaintsRow.Strings-rev128\ThomasJepp.SaintsRow.ExtractStrings.exe 		srtt 		"base\misc.vpp_pc\diversion_us.le_strings" 				"locale\misc.vpp_pc\diversion_us.xml"

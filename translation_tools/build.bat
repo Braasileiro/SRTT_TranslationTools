@@ -7,6 +7,7 @@ REM PATH_CREATE
     MKDIR output
     MKDIR output\dlc1.vpp_pc
     MKDIR output\dlc2.vpp_pc
+    MKDIR output\dlc3.vpp_pc
     MKDIR output\misc.vpp_pc
 REM PATH_CREATE
 
